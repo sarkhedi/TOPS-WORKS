@@ -1,0 +1,12 @@
+[
+    {
+        "order_id": "ORD101",
+        "customer_name": "Mahek Patel",
+        "items": [
+            "burger",
+            "pizza"
+        ],
+        "total_amount": 788.9,
+        "status": "Pending"
+    }
+]
