@@ -1,0 +1,12 @@
+Write a Python program for a food delivery billing system that:
+1. Accepts a list of food items and their prices (user input) and calculates
+   the itemised subtotal.
+2. Adds an 18% GST charge and a flat delivery fee of Rs 30 to produce a
+   final bill amount.
+3. Applies a 10% loyalty discount on the subtotal if the customer has
+   placed more than 5 previous orders (also taken as user input).
+4. Prints a formatted receipt showing each line item - subtotal, GST,
+   delivery fee, discount (if applicable), and final amount payable.
+5. Handles invalid inputs such as negative prices or non-numeric entry
+   for the number of previous orders, without crashing.
+ 
