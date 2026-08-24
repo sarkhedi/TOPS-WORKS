@@ -1,0 +1,11 @@
+[
+    {
+        "customer_name": "Mahek Patel",
+        "items": [
+            "Pizza",
+            "Diet Coke"
+        ],
+        "total_amount": 399.0,
+        "status": "Completed"
+    }
+]
