@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Region,Product ID,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2023-10043,6/21/2023,6/26/2023,Standard Class,CG-543,Home Office,United States,Seattle,Washington,West,OFF-SUP-580,Office Supplies,Supplies,113.4,2,0,11.76
+CA-2023-10042,1/18/2023,1/24/2023,Standard Class,CG-542,Corporate,United States,Miami,Florida,South,OFF-ENV-876,Office Supplies,Envelopes,109.2,2,0.1,18.53
+CA-2023-10034,8/17/2023,8/22/2023,Second Class,CG-534,Consumer,United States,Los Angeles,California,West,OFF-FAS-795,Office Supplies,Fasteners,399.22,2,0,99.81
+CA-2023-10010,10/19/2023,10/21/2023,First Class,CG-510,Consumer,United States,Detroit,Michigan,Central,FUR-FUR-665,Furniture,Furnishings,93.57,6,0,14.21
+CA-2023-10066,4/24/2023,4/28/2023,Second Class,CG-566,Consumer,United States,San Francisco,California,West,TEC-PHO-746,Technology,Phones,1748.92,5,0.15,621.74
+CA-2023-10051,11/7/2023,11/12/2023,Second Class,CG-551,Corporate,United States,Los Angeles,California,West,TEC-COP-828,Technology,Copiers,409.69,2,0.1,153.27
+CA-2023-10002,8/13/2023,8/15/2023,First Class,CG-502,Consumer,United States,New York City,New York,East,OFF-SUP-475,Office Supplies,Supplies,125.85,4,0.1,17.99
+CA-2023-10071,9/30/2023,10/5/2023,Second Class,CG-571,Corporate,United States,Denver,Colorado,West,FUR-CHA-557,Furniture,Chairs,17.21,2,0.1,4.26
+CA-2023-10016,8/29/2023,9/3/2023,Standard Class,CG-516,Corporate,United States,San Francisco,California,West,OFF-APP-759,Office Supplies,Appliances,442.55,2,0.05,124.02
+CA-2023-10079,2/20/2023,2/22/2023,First Class,CG-579,Home Office,United States,Detroit,Michigan,Central,TEC-COP-346,Technology,Copiers,1484.27,1,0,419.31
+CA-2023-10074,1/25/2023,1/29/2023,Standard Class,CG-574,Home Office,United States,Dallas,Texas,Central,OFF-BIN-198,Office Supplies,Binders,194.65,3,0.3,-45.05
+CA-2023-10011,12/14/2023,12/18/2023,Same Day,CG-511,Corporate,United States,San Francisco,California,West,FUR-CHA-321,Furniture,Chairs,171.26,3,0,27.68
+CA-2023-10056,4/29/2023,5/1/2023,Same Day,CG-556,Home Office,United States,Charlotte,North Carolina,South,FUR-TAB-357,Furniture,Tables,967.24,4,0.15,50.28
+CA-2023-10057,7/7/2023,7/10/2023,Same Day,CG-557,Home Office,United States,Seattle,Washington,West,TEC-MAC-109,Technology,Machines,339.03,5,0.7,-84.85
+CA-2023-10073,9/10/2023,9/16/2023,Second Class,CG-573,Home Office,United States,Seattle,Washington,West,FUR-TAB-589,Furniture,Tables,858.11,4,0.25,-152.42
+CA-2023-10046,12/6/2023,12/12/2023,Standard Class,CG-546,Home Office,United States,Philadelphia,Pennsylvania,East,TEC-MAC-186,Technology,Machines,350.8,7,0.25,-86.12
+CA-2023-10049,1/29/2023,2/4/2023,Standard Class,CG-549,Consumer,United States,Houston,Texas,Central,OFF-APP-594,Office Supplies,Appliances,99.09,2,0.05,26.99
+CA-2023-10037,8/14/2023,8/18/2023,Standard Class,CG-537,Corporate,United States,Atlanta,Georgia,South,OFF-LAB-655,Office Supplies,Labels,175.65,3,0,43.91
+CA-2023-10077,7/4/2023,7/6/2023,Second Class,CG-577,Home Office,United States,Chicago,Illinois,Central,OFF-LAB-382,Office Supplies,Labels,177.53,2,0,18.71
+CA-2023-10038,10/20/2023,10/24/2023,Standard Class,CG-538,Consumer,United States,Denver,Colorado,West,OFF-ART-328,Office Supplies,Art,202.64,5,0,51.02
+CA-2023-10031,3/29/2023,4/2/2023,Standard Class,CG-531,Home Office,United States,Houston,Texas,Central,FUR-CHA-107,Furniture,Chairs,23.8,6,0.1,3.37
+CA-2023-10022,7/12/2023,7/15/2023,First Class,CG-522,Home Office,United States,Detroit,Michigan,Central,FUR-TAB-970,Furniture,Tables,653.3,1,0.35,-98.12
+CA-2023-10033,5/27/2023,6/2/2023,Same Day,CG-533,Consumer,United States,New York City,New York,East,OFF-BIN-640,Office Supplies,Binders,379.53,7,0.05,75.97
+CA-2023-10049,1/29/2023,2/4/2023,Standard Class,CG-549,Consumer,United States,Houston,Texas,Central,FUR-BOO-700,Furniture,Bookcases,99.91,2,0,24.98
+CA-2023-10001,10/25/2023,10/28/2023,First Class,CG-501,Corporate,United States,San Francisco,California,West,FUR-BOO-497,Furniture,Bookcases,34.38,3,0,8.6
+CA-2023-10050,11/24/2023,11/27/2023,Same Day,CG-550,Home Office,United States,Miami,Florida,South,FUR-TAB-885,Furniture,Tables,442.25,2,0.35,-79.07
+CA-2023-10010,10/19/2023,10/21/2023,First Class,CG-510,Consumer,United States,Detroit,Michigan,Central,FUR-BOO-772,Furniture,Bookcases,388.72,1,0.2,97.18
+CA-2023-10027,9/4/2023,9/6/2023,Standard Class,CG-527,Home Office,United States,Atlanta,Georgia,South,OFF-LAB-268,Office Supplies,Labels,145.37,2,0,37.21
+CA-2023-10022,7/12/2023,7/15/2023,First Class,CG-522,Home Office,United States,Detroit,Michigan,Central,TEC-ACC-400,Technology,Accessories,127.2,2,0.2,31.8
+CA-2023-10034,8/17/2023,8/22/2023,Second Class,CG-534,Consumer,United States,Los Angeles,California,West,OFF-LAB-997,Office Supplies,Labels,86.25,1,0.2,10.62
+CA-2023-10009,8/6/2023,8/8/2023,First Class,CG-509,Consumer,United States,Seattle,Washington,West,FUR-FUR-112,Furniture,Furnishings,163.77,1,0.2,29.9
+CA-2023-10048,12/4/2023,12/7/2023,First Class,CG-548,Home Office,United States,Miami,Florida,South,TEC-COP-785,Technology,Copiers,574.55,8,0.1,184.2
+CA-2023-10060,5/22/2023,5/28/2023,Same Day,CG-560,Home Office,United States,Houston,Texas,Central,OFF-FAS-789,Office Supplies,Fasteners,72.49,2,0.1,18.55
+CA-2023-10064,5/18/2023,5/22/2023,Same Day,CG-564,Corporate,United States,Miami,Florida,South,FUR-TAB-645,Furniture,Tables,883.17,7,0.25,-229.25
+CA-2023-10075,4/23/2023,4/29/2023,Second Class,CG-575,Corporate,United States,Miami,Florida,South,FUR-CHA-592,Furniture,Chairs,216.01,1,0.1,50.76
+CA-2023-10045,6/21/2023,6/24/2023,Standard Class,CG-545,Consumer,United States,Chicago,Illinois,Central,FUR-FUR-457,Furniture,Furnishings,110.27,1,0.2,14.39
+CA-2023-10055,7/1/2023,7/5/2023,First Class,CG-555,Corporate,United States,Columbus,Ohio,East,TEC-ACC-733,Technology,Accessories,294.79,4,0.4,-58.96
+CA-2023-10053,2/27/2023,3/4/2023,First Class,CG-553,Consumer,United States,Detroit,Michigan,Central,FUR-FUR-428,Furniture,Furnishings,57.85,3,0.1,10.21
+CA-2023-10016,8/29/2023,9/3/2023,Standard Class,CG-516,Corporate,United States,San Francisco,California,West,FUR-TAB-452,Furniture,Tables,262.22,4,0,65.56
+CA-2023-10013,6/4/2023,6/8/2023,Second Class,CG-513,Corporate,United States,Columbus,Ohio,East,OFF-PAP-351,Office Supplies,Paper,281.27,1,0.1,83.81
+CA-2023-10037,8/14/2023,8/18/2023,Standard Class,CG-537,Corporate,United States,Atlanta,Georgia,South,FUR-CHA-812,Furniture,Chairs,129.61,6,0,21.5
+CA-2023-10024,7/20/2023,7/22/2023,Second Class,CG-524,Corporate,United States,Atlanta,Georgia,South,OFF-APP-800,Office Supplies,Appliances,391.47,5,0.05,118.06
+CA-2023-10040,10/19/2023,10/23/2023,Second Class,CG-540,Corporate,United States,Columbus,Ohio,East,TEC-COP-415,Technology,Copiers,1792.92,6,0.1,407.07
+CA-2023-10041,6/19/2023,6/22/2023,Standard Class,CG-541,Home Office,United States,Chicago,Illinois,Central,OFF-SUP-379,Office Supplies,Supplies,96.45,3,0.2,13.48
+CA-2023-10019,5/28/2023,6/3/2023,Standard Class,CG-519,Consumer,United States,Dallas,Texas,Central,TEC-PHO-840,Technology,Phones,1283.67,7,0.2,269.94
+CA-2023-10067,5/11/2023,5/16/2023,Standard Class,CG-567,Corporate,United States,San Francisco,California,West,FUR-CHA-605,Furniture,Chairs,209.87,3,0,52.64
+CA-2023-10062,4/2/2023,4/6/2023,Second Class,CG-562,Home Office,United States,Seattle,Washington,West,TEC-MAC-864,Technology,Machines,1177.87,8,0.35,-485.61
+CA-2023-10061,9/18/2023,9/23/2023,Standard Class,CG-561,Consumer,United States,Detroit,Michigan,Central,OFF-ENV-989,Office Supplies,Envelopes,179.08,6,0.2,36.6
+CA-2023-10008,2/4/2023,2/6/2023,First Class,CG-508,Corporate,United States,San Francisco,California,West,OFF-ENV-192,Office Supplies,Envelopes,235.26,5,0.1,43.26
+CA-2023-10035,11/2/2023,11/7/2023,Standard Class,CG-535,Home Office,United States,Chicago,Illinois,Central,FUR-FUR-309,Furniture,Furnishings,198.88,5,0,52.49
+CA-2023-10058,10/16/2023,10/20/2023,Standard Class,CG-558,Home Office,United States,Seattle,Washington,West,FUR-CHA-927,Furniture,Chairs,49.68,3,0.4,-9.94
+CA-2023-10047,9/27/2023,10/3/2023,First Class,CG-547,Home Office,United States,Los Angeles,California,West,FUR-CHA-519,Furniture,Chairs,140.99,3,0.1,30.97
+CA-2023-10003,7/26/2023,7/31/2023,Second Class,CG-503,Consumer,United States,Richmond,Virginia,South,OFF-APP-213,Office Supplies,Appliances,315.92,6,0.1,72.32
+CA-2023-10052,11/14/2023,11/19/2023,First Class,CG-552,Home Office,United States,Los Angeles,California,West,FUR-FUR-765,Furniture,Furnishings,131.69,2,0.2,19.62
+CA-2023-10017,3/30/2023,4/5/2023,Second Class,CG-517,Corporate,United States,New York City,New York,East,TEC-PHO-207,Technology,Phones,799.47,1,0.1,236.15
+CA-2023-10039,4/14/2023,4/17/2023,First Class,CG-539,Corporate,United States,San Francisco,California,West,OFF-PAP-287,Office Supplies,Paper,317.78,7,0.3,-40.69
+CA-2023-10059,1/9/2023,1/13/2023,First Class,CG-559,Corporate,United States,Miami,Florida,South,TEC-MAC-902,Technology,Machines,1130.99,8,0.5,-191.12
+CA-2023-10069,4/12/2023,4/16/2023,Same Day,CG-569,Home Office,United States,Philadelphia,Pennsylvania,East,TEC-MAC-326,Technology,Machines,1148.18,8,0.25,-319.2
+CA-2023-10023,12/5/2023,12/7/2023,First Class,CG-523,Corporate,United States,Denver,Colorado,West,TEC-ACC-158,Technology,Accessories,51.04,4,0.05,12.65
+CA-2023-10063,3/2/2023,3/8/2023,Standard Class,CG-563,Corporate,United States,San Francisco,California,West,OFF-ENV-732,Office Supplies,Envelopes,191.27,4,0.1,27.91
+CA-2023-10025,9/22/2023,9/27/2023,First Class,CG-525,Consumer,United States,Miami,Florida,South,TEC-COP-830,Technology,Copiers,1428.26,1,0.2,338.79
+CA-2023-10006,7/5/2023,7/11/2023,Same Day,CG-506,Consumer,United States,Atlanta,Georgia,South,TEC-COP-186,Technology,Copiers,347.99,2,0.15,99.82
+CA-2023-10007,8/15/2023,8/17/2023,Same Day,CG-507,Home Office,United States,Philadelphia,Pennsylvania,East,TEC-MAC-242,Technology,Machines,1157.12,2,0.35,-267.75
+CA-2023-10068,9/3/2023,9/8/2023,Second Class,CG-568,Home Office,United States,San Francisco,California,West,FUR-FUR-218,Furniture,Furnishings,141.79,3,0.1,26.99
+CA-2023-10007,8/15/2023,8/17/2023,Same Day,CG-507,Home Office,United States,Philadelphia,Pennsylvania,East,FUR-BOO-775,Furniture,Bookcases,237.05,3,0,59.26
+CA-2023-10020,11/21/2023,11/25/2023,Standard Class,CG-520,Consumer,United States,Detroit,Michigan,Central,TEC-MAC-349,Technology,Machines,607.98,4,0.7,-105.91
+CA-2023-10080,4/4/2023,4/9/2023,Standard Class,CG-580,Home Office,United States,Boston,Massachusetts,East,OFF-ENV-854,Office Supplies,Envelopes,197.62,2,0,44.16
+CA-2023-10044,9/8/2023,9/11/2023,Standard Class,CG-544,Consumer,United States,Boston,Massachusetts,East,TEC-MAC-935,Technology,Machines,275.76,8,0.25,-111.52
+CA-2023-10031,3/29/2023,4/2/2023,Standard Class,CG-531,Home Office,United States,Houston,Texas,Central,TEC-ACC-428,Technology,Accessories,36.83,3,0.4,-7.37
+CA-2023-10021,8/13/2023,8/18/2023,Second Class,CG-521,Corporate,United States,San Francisco,California,West,OFF-PAP-329,Office Supplies,Paper,260.27,5,0,78.4
+CA-2023-10001,10/25/2023,10/28/2023,First Class,CG-501,Corporate,United States,San Francisco,California,West,FUR-FUR-395,Furniture,Furnishings,177.72,8,0,28.3
+CA-2023-10046,12/6/2023,12/12/2023,Standard Class,CG-546,Home Office,United States,Philadelphia,Pennsylvania,East,TEC-PHO-258,Technology,Phones,224.24,1,0.4,-44.85
+CA-2023-10058,10/16/2023,10/20/2023,Standard Class,CG-558,Home Office,United States,Seattle,Washington,West,FUR-FUR-686,Furniture,Furnishings,57.68,1,0.1,6.59
+CA-2023-10040,10/19/2023,10/23/2023,Second Class,CG-540,Corporate,United States,Columbus,Ohio,East,OFF-PAP-592,Office Supplies,Paper,71.12,1,0.4,-14.22
+CA-2023-10054,5/9/2023,5/11/2023,Second Class,CG-554,Consumer,United States,San Francisco,California,West,OFF-FAS-435,Office Supplies,Fasteners,41.34,5,0.1,11.36
+CA-2023-10028,10/3/2023,10/9/2023,Same Day,CG-528,Home Office,United States,Charlotte,North Carolina,South,FUR-CHA-459,Furniture,Chairs,276.69,4,0.4,-55.34
+CA-2023-10026,11/17/2023,11/21/2023,First Class,CG-526,Consumer,United States,Detroit,Michigan,Central,TEC-PHO-888,Technology,Phones,1414.14,8,0.2,283.19
+CA-2023-10072,11/17/2023,11/22/2023,First Class,CG-572,Corporate,United States,Boston,Massachusetts,East,TEC-ACC-332,Technology,Accessories,294.03,1,0.1,55.96
+CA-2023-10013,6/4/2023,6/8/2023,Second Class,CG-513,Corporate,United States,Columbus,Ohio,East,OFF-ENV-561,Office Supplies,Envelopes,128.12,4,0.4,-25.62
+CA-2023-10078,2/17/2023,2/20/2023,Same Day,CG-578,Home Office,United States,Miami,Florida,South,TEC-COP-822,Technology,Copiers,823.77,2,0.1,216.7
+CA-2023-10065,7/7/2023,7/10/2023,Same Day,CG-565,Corporate,United States,Detroit,Michigan,Central,FUR-BOO-180,Furniture,Bookcases,205.99,2,0.15,14.91
+CA-2023-10030,3/3/2023,3/9/2023,Second Class,CG-530,Corporate,United States,Atlanta,Georgia,South,TEC-PHO-290,Technology,Phones,1048.6,3,0.2,354.99
+CA-2023-10028,10/3/2023,10/9/2023,Same Day,CG-528,Home Office,United States,Charlotte,North Carolina,South,FUR-CHA-483,Furniture,Chairs,17.98,2,0.1,4.45
+CA-2023-10025,9/22/2023,9/27/2023,First Class,CG-525,Consumer,United States,Miami,Florida,South,TEC-MAC-659,Technology,Machines,317.86,3,0.2,79.47
+CA-2023-10052,11/14/2023,11/19/2023,First Class,CG-552,Home Office,United States,Los Angeles,California,West,FUR-CHA-362,Furniture,Chairs,153.36,1,0,38.34
+CA-2023-10005,7/4/2023,7/6/2023,First Class,CG-505,Home Office,United States,New York City,New York,East,OFF-STO-384,Office Supplies,Storage,194.45,2,0.1,43.42
+CA-2023-10055,7/1/2023,7/5/2023,First Class,CG-555,Corporate,United States,Columbus,Ohio,East,OFF-APP-710,Office Supplies,Appliances,422.49,6,0.3,-46.75
+CA-2023-10076,9/24/2023,9/30/2023,Same Day,CG-576,Corporate,United States,Columbus,Ohio,East,FUR-BOO-863,Furniture,Bookcases,294.65,2,0.25,-78.81
+CA-2023-10012,7/9/2023,7/11/2023,Same Day,CG-512,Home Office,United States,Boston,Massachusetts,East,FUR-FUR-230,Furniture,Furnishings,143.27,8,0.1,22.07
+CA-2023-10070,7/8/2023,7/12/2023,First Class,CG-570,Home Office,United States,Boston,Massachusetts,East,OFF-ART-744,Office Supplies,Art,136.31,8,0.2,28.4
+CA-2023-10019,5/28/2023,6/3/2023,Standard Class,CG-519,Consumer,United States,Dallas,Texas,Central,OFF-BIN-544,Office Supplies,Binders,322.19,2,0,80.55
+CA-2023-10014,8/13/2023,8/18/2023,Standard Class,CG-514,Corporate,United States,New York City,New York,East,OFF-PAP-113,Office Supplies,Paper,420.98,7,0.1,127.98
+CA-2023-10018,9/4/2023,9/7/2023,Standard Class,CG-518,Consumer,United States,Denver,Colorado,West,FUR-CHA-381,Furniture,Chairs,192.16,7,0.2,21.28
+CA-2023-10029,3/23/2023,3/29/2023,Second Class,CG-529,Home Office,United States,Houston,Texas,Central,FUR-CHA-297,Furniture,Chairs,27.01,3,0,6.72
+CA-2023-10032,11/21/2023,11/24/2023,Same Day,CG-532,Consumer,United States,Boston,Massachusetts,East,TEC-ACC-458,Technology,Accessories,177.68,7,0.3,-23.33
+CA-2023-10036,7/17/2023,7/21/2023,Second Class,CG-536,Home Office,United States,Charlotte,North Carolina,South,TEC-ACC-276,Technology,Accessories,248.38,1,0.05,52.63
+CA-2023-10043,6/21/2023,6/26/2023,Standard Class,CG-543,Home Office,United States,Seattle,Washington,West,TEC-COP-151,Technology,Copiers,164.56,2,0.2,41.14
+CA-2023-10004,7/14/2023,7/17/2023,Same Day,CG-504,Consumer,United States,Richmond,Virginia,South,TEC-MAC-321,Technology,Machines,545.51,2,0.15,47.51
+CA-2023-10015,3/15/2023,3/20/2023,Standard Class,CG-515,Consumer,United States,Chicago,Illinois,Central,FUR-CHA-739,Furniture,Chairs,94.66,8,0.2,10.7
+CA-2023-10004,7/14/2023,7/17/2023,Same Day,CG-504,Consumer,United States,Richmond,Virginia,South,TEC-PHO-191,Technology,Phones,232.36,4,0,58.09
