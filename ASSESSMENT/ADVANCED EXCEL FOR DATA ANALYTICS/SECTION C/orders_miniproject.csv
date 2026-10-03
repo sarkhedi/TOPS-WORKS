@@ -1,0 +1,121 @@
+OrderID,RestaurantID,Cuisine,Zone,OrderDate,DeliveryTime,Rating,Revenue,Status
+ORD2001,R107,Chinese,West,2024-03-12,40,4,1390,Delivered
+ORD2002,R111,Chinese,East,2024-02-11,24,5,1030,Delivered
+ORD2003,R106,Italian,West,2024-01-06,38,3,1430,Delivered
+ORD2004,R112,Italian,West,2024-02-17,37,4,1210,Delivered
+ORD2005,R115,Italian,Central,2024-01-05,37,4,1270,Delivered
+ORD2006,R103,Chinese,Central,2024-03-18,29,4,410,Delivered
+ORD2007,R104,Biryani,East,2024-03-25,18,4,270,Delivered
+ORD2008,R115,Biryani,Central,2024-01-11,46,3,1170,Delivered
+ORD2009,R101,Biryani,North,2024-01-17,22,4,310,Delivered
+ORD2010,R115,Italian,Central,2024-03-10,49,4,950,Delivered
+ORD2011,R116,Italian,South,2024-01-30,37,5,650,Delivered
+ORD2012,R102,Italian,South,2024-02-18,53,3,730,Delayed
+ORD2013,R112,North Indian,West,2024-01-13,41,3,890,Delivered
+ORD2014,R110,Chinese,East,2024-02-28,37,5,410,Delivered
+ORD2015,R999,North Indian,South,2024-01-06,20,5,1030,Delivered
+ORD2016,R103,Chinese,Central,2024-02-12,25,4,510,Delayed
+ORD2017,R105,Italian,North,2024-01-22,21,5,1250,Delivered
+ORD2018,R107,Chinese,West,2024-02-12,38,4,310,Delayed
+ORD2019,R107,Chinese,West,2024-02-24,23,5,370,Delivered
+ORD2020,R106,Italian,West,2024-03-20,37,4,1370,Delivered
+ORD2021,R112,Biryani,West,2024-01-20,44,2,1330,Delayed
+ORD2022,R107,Chinese,West,2024-03-22,34,4,770,Delivered
+ORD2023,R104,Biryani,East,2024-02-01,22,5,970,Delivered
+ORD2024,R110,Biryani,East,2024-01-22,25,4,870,Delivered
+ORD2025,R109,Biryani,Central,2024-02-02,35,4,1210,Cancelled
+ORD2026,R111,Chinese,East,2024-02-24,18,5,1310,Delivered
+ORD2027,R116,Italian,South,2024-03-22,24,5,870,Delivered
+ORD2028,R107,Chinese,West,2024-03-01,32,5,1410,Delivered
+ORD2029,R106,Italian,West,2024-02-03,48,3,1190,Delivered
+ORD2030,R109,Biryani,Central,2024-02-15,48,3,290,Delivered
+ORD2031,R111,Chinese,East,2024-01-20,37,4,370,Delivered
+ORD2032,R101,Biryani,North,2024-02-04,32,5,250,Delivered
+ORD2033,R109,North Indian,Central,2024-01-19,52,2,550,Cancelled
+ORD2034,R109,Biryani,Central,2024-02-17,39,4,1190,Cancelled
+ORD2035,R105,North Indian,North,2024-03-20,21,5,550,Delayed
+ORD2036,R108,Biryani,North,2024-02-06,19,5,1270,Delivered
+ORD2037,R108,Biryani,North,2024-03-11,34,4,730,Delivered
+ORD2038,R113,Biryani,South,2024-01-26,46,2,270,Delivered
+ORD2039,R116,Italian,South,2024-03-30,18,5,390,Delayed
+ORD2040,R101,Biryani,North,2024-02-21,26,4,1250,Delivered
+ORD2041,R106,Italian,West,2024-01-22,35,5,770,Delivered
+ORD2042,R105,Italian,North,2024-02-28,30,4,890,Delivered
+ORD2043,R113,Biryani,South,2024-02-14,43,2,1110,Cancelled
+ORD2044,R113,Biryani,South,2024-01-26,33,5,1430,Delivered
+ORD2045,R108,Biryani,North,2024-01-30,46,4,1270,Delivered
+ORD2046,R105,Biryani,North,2024-03-17,40,4,590,Delivered
+ORD2047,R115,Italian,Central,2024-03-03,28,5,670,Delivered
+ORD2048,R115,Chinese,Central,2024-01-27,37,4,1030,Delivered
+ORD2049,R111,Chinese,East,2024-03-04,18,5,1230,Delayed
+ORD2050,R113,Biryani,South,2024-01-08,34,3,950,Delivered
+ORD2051,R101,Biryani,North,2024-03-04,29,4,790,Delivered
+ORD2052,R116,Italian,South,2024-02-22,31,3,730,Delivered
+ORD2053,R114,North Indian,East,2024-03-16,26,4,530,Delivered
+ORD2054,R112,North Indian,West,2024-02-17,41,3,1110,Cancelled
+ORD2055,R107,Chinese,West,2024-01-08,36,4,1330,Delivered
+ORD2056,R116,Italian,South,2024-03-28,24,5,830,Delivered
+ORD2057,R108,Biryani,North,2024-01-25,19,4,1290,Delivered
+ORD2058,R115,North Indian,Central,2024-03-02,34,3,1390,Delivered
+ORD2059,R102,Italian,South,2024-01-22,31,4,330,Delivered
+ORD2060,R107,Chinese,West,2024-01-05,41,3,1250,Delivered
+ORD2061,R109,North Indian,Central,2024-01-11,39,4,750,Delivered
+ORD2062,R105,Chinese,North,2024-02-01,33,4,970,Delivered
+ORD2063,R110,Italian,East,2024-02-27,28,5,1390,Delivered
+ORD2064,R108,Biryani,North,2024-02-29,22,4,710,Cancelled
+ORD2065,R102,Italian,South,2024-01-03,35,4,1230,Delivered
+ORD2066,R101,North Indian,North,2024-03-14,28,5,470,Delivered
+ORD2067,R101,Biryani,North,2024-03-22,29,3,390,Delivered
+ORD2068,R999,Italian,South,2024-01-31,24,5,370,Delivered
+ORD2069,R105,Italian,North,2024-02-26,30,5,1370,Delivered
+ORD2070,R105,North Indian,North,2024-02-21,32,4,930,Delivered
+ORD2071,R102,Italian,South,2024-01-23,39,4,470,Delivered
+ORD2072,R113,Biryani,South,2024-03-07,32,4,830,Delayed
+ORD2073,R114,Biryani,East,2024-03-15,36,4,470,Cancelled
+ORD2074,R103,Chinese,Central,2024-01-09,33,4,510,Delivered
+ORD2075,R104,Biryani,East,2024-02-21,22,5,730,Delivered
+ORD2076,R105,Biryani,North,2024-03-26,45,3,1010,Delivered
+ORD2077,R110,Italian,East,2024-01-06,18,5,1090,Delivered
+ORD2078,R115,Biryani,Central,2024-03-02,51,4,570,Delayed
+ORD2079,R107,Chinese,West,2024-02-08,31,5,270,Delivered
+ORD2080,R105,Italian,North,2024-03-29,18,5,250,Delayed
+ORD2081,R101,Chinese,North,2024-03-22,18,5,610,Delivered
+ORD2082,R106,Italian,West,2024-03-04,45,2,610,Delivered
+ORD2083,R103,Chinese,Central,2024-01-23,48,3,390,Delivered
+ORD2084,R109,Chinese,Central,2024-03-08,18,5,1370,Delivered
+ORD2085,R101,North Indian,North,2024-03-19,29,3,930,Delivered
+ORD2086,R109,Italian,Central,2024-01-15,36,4,530,Delivered
+ORD2087,R105,Italian,North,2024-02-22,26,5,390,Delivered
+ORD2088,R104,Biryani,East,2024-02-11,38,4,1230,Delivered
+ORD2089,R105,North Indian,North,2024-01-24,22,5,1290,Delayed
+ORD2090,R112,Biryani,West,2024-01-15,35,5,350,Cancelled
+ORD2091,R116,Italian,South,2024-02-22,31,3,1350,Delivered
+ORD2092,R101,Italian,North,2024-03-29,36,3,650,Delivered
+ORD2093,R109,Italian,Central,2024-03-15,29,3,250,Delivered
+ORD2094,R107,Chinese,West,2024-03-18,36,5,850,Delivered
+ORD2095,R103,Chinese,Central,2024-02-19,31,4,1150,Delivered
+ORD2096,R113,Biryani,South,2024-02-24,35,4,1210,Delivered
+ORD2097,R102,Italian,South,2024-02-02,32,4,1310,Delayed
+ORD2098,R102,Italian,South,2024-03-17,23,5,330,Delivered
+ORD2099,R111,Chinese,East,2024-02-06,35,5,1250,Delayed
+ORD2100,R116,Italian,South,2024-01-02,42,2,910,Delivered
+ORD2101,R115,Chinese,Central,2024-01-09,39,4,530,Delivered
+ORD2102,R107,Chinese,West,2024-02-17,51,3,810,Delayed
+ORD2103,R108,Biryani,North,2024-03-16,28,5,1090,Delivered
+ORD2104,R111,Chinese,East,2024-01-07,25,4,1330,Delivered
+ORD2105,R111,Chinese,East,2024-01-13,20,5,290,Delayed
+ORD2106,R111,Chinese,East,2024-03-01,34,3,1390,Delivered
+ORD2107,R105,North Indian,North,2024-02-01,24,5,330,Delivered
+ORD2108,R110,Italian,East,2024-02-02,29,4,1130,Delivered
+ORD2109,R110,North Indian,East,2024-02-13,31,3,1190,Delivered
+ORD2110,R110,Biryani,East,2024-03-13,47,3,1270,Delivered
+ORD2111,R115,Biryani,Central,2024-02-13,22,5,1130,Delivered
+ORD2112,R111,Chinese,East,2024-01-23,42,3,1170,Delayed
+ORD2113,R111,Chinese,East,2024-02-17,28,5,530,Delivered
+ORD2114,R107,Chinese,West,2024-02-03,27,4,1370,Delayed
+ORD2115,R106,Italian,West,2024-01-30,51,3,1130,Delayed
+ORD2116,R104,Biryani,East,2024-02-18,37,4,390,Delivered
+ORD2117,R112,Chinese,West,2024-02-04,42,3,1410,Delivered
+ORD2118,R113,Biryani,South,2024-01-30,27,5,1290,Delivered
+ORD2119,R106,Italian,West,2024-02-02,46,2,830,Delivered
+ORD2120,R107,Chinese,West,2024-03-16,35,3,850,Delivered

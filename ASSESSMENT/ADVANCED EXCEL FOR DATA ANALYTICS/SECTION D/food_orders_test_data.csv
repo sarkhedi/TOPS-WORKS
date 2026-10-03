@@ -1,0 +1,26 @@
+OrderID,CustomerName,Cuisine,DeliveryTime,Revenue,Status
+ORD3001,Aarav Sharma,North Indian,25,750.0,Delivered
+ORD3002,Diya Patel,Italian,35,620.0,Delivered
+ORD3003,Rohan Verma,Chinese,68,480.0,Delayed
+ORD3004,Ananya Iyer,Biryani,42,,Delivered
+ORD3005,Kabir Mehta,North Indian,-5,890.0,Delivered
+ORD3006,Ishita Gupta,Italian,28,540.0,Delivered
+ORD3007,Vikram Singh,Chinese,85,920.0,Delayed
+ORD3008,Neha Reddy,Biryani,38,,Delivered
+ORD3009,Arjun Nair,North Indian,32,430.0,Delivered
+ORD3010,Pooja Joshi,Italian,72,810.0,Delayed
+ORD3011,Aditya Rao,Chinese,45,360.0,Delivered
+ORD3012,Tanvi Kulkarni,Biryani,50,780.0,Delivered
+ORD3013,Siddharth Jain,North Indian,64,670.0,Delayed
+ORD3014,Meera Pillai,Italian,30,,Delivered
+ORD3015,Kunal Shah,Chinese,22,510.0,Delivered
+ORD3016,Rhea Sen,Biryani,40,950.0,Delivered
+ORD3017,Gaurav Bansal,North Indian,78,820.0,Delayed
+ORD3018,Sneha Roy,Italian,26,590.0,Delivered
+ORD3019,Rahul Deshmukh,Chinese,34,470.0,Delivered
+ORD3020,Priyanka Chopra,Biryani,58,860.0,Delivered
+ORD3021,Manish Tiwari,,39,610.0,Delivered
+ORD3022,Kavita Das,North Indian,29,,Delivered
+ORD3023,Sameer Khan,Italian,61,730.0,Delayed
+ORD3024,Deepika Bhatt,Chinese,27,390.0,Delivered
+ORD3025,Nikhil Saxena,Biryani,48,840.0,Delivered

@@ -1,0 +1,61 @@
+OrderID,CustomerName,RestaurantID,Cuisine,OrderDate,DeliveryTime,Rating,Revenue,Status
+ORD1001,Aarav Sharma,R101,North Indian,2024-01-05,25,5,850,Delivered
+ORD1002,Diya Patel,R102,Italian,2024-01-08,32,4,620,Delivered
+ORD1003,Rohan Verma,R103,Chinese,2024-01-12,48,3,450,Delayed
+ORD1004,Ananya Iyer,R104,South Indian,2024-01-15,22,5,320,Delivered
+ORD1005,Kabir Mehta,R105,Biryani,2024-01-18,38,4,780,Delivered
+ORD1006,Ishita Gupta,R106,North Indian,2024-01-22,28,4,540,Delivered
+ORD1007,Vikram Singh,R107,Italian,2024-01-25,82,2,950,Delayed
+ORD1008,Neha Reddy,R108,Chinese,2024-01-28,35,4,480,Delivered
+ORD1009,Arjun Nair,R109,South Indian,2024-01-30,19,5,290,Delivered
+ORD1010,Pooja Joshi,R110,Biryani,2024-02-02,42,3,820,Delivered
+ORD1011,Aditya Rao,R111,North Indian,2024-02-05,30,4,690,Delivered
+ORD1012,Tanvi Kulkarni,R112,Italian,2024-02-08,27,5,880,Delivered
+ORD1013,Siddharth Jain,R113,Chinese,2024-02-11,52,2,380,Delayed
+ORD1014,Meera Pillai,R114,South Indian,2024-02-14,24,4,310,Delivered
+ORD1015,Kunal Shah,R115,Biryani,2024-02-17,36,5,750,Delivered
+ORD1016,Rhea Sen,R101,North Indian,2024-02-20,29,4,580,Delivered
+ORD1017,Gaurav Bansal,R999,Italian,2024-02-23,44,3,640,Delivered
+ORD1018,Sneha Roy,R103,Chinese,2024-02-26,26,4,520,Delivered
+ORD1019,Rahul Deshmukh,R104,South Indian,2024-02-28,18,5,340,Delivered
+ORD1020,Priyanka Chopra,R105,Biryani,2024-03-02,40,4,920,Delivered
+ORD1021,Manish Tiwari,R106,North Indian,2024-03-05,33,4,460,Delivered
+ORD1022,Kavita Das,R107,Italian,2024-03-07,31,5,710,Delivered
+ORD1023,Sameer Khan,R108,Chinese,2024-03-10,65,1,410,Cancelled
+ORD1024,Deepika Bhatt,R109,South Indian,2024-03-12,21,5,360,Delivered
+ORD1025,Nikhil Saxena,R110,Biryani,2024-03-15,37,4,840,Delivered
+ORD1026,Shweta Menon,R111,North Indian,2024-03-18,29,4,620,Delivered
+ORD1027,Varun Kapoor,R112,Italian,2024-03-20,34,4,760,Delivered
+ORD1028,Anjali Ghosh,R113,Chinese,2024-03-23,46,3,390,Delivered
+ORD1029,Harsh Vardhan,R114,South Indian,2024-03-25,23,4,280,Delivered
+ORD1030,Divya Nambiar,R115,Biryani,2024-03-28,39,5,890,Delivered
+ORD1031,Pranav Anand,R101,North Indian,2024-03-30,26,5,740,Delivered
+ORD1032,Sonali Hegde,R102,Italian,2024-04-02,30,4,670,Delivered
+ORD1033,Mohit Chawla,R103,Chinese,2024-04-04,55,2,430,Delayed
+ORD1034,Aakash Mittal,R104,South Indian,2024-04-06,20,5,330,Delivered
+ORD1035,Pallavi Soni,R105,Biryani,2024-04-08,41,4,810,Delivered
+ORD1036,Suresh Raina,R106,North Indian,2024-04-10,32,4,590,Delivered
+ORD1037,Geeta Phogat,R107,Italian,2024-04-12,28,5,930,Delivered
+ORD1038,Rajesh Khanna,R108,Chinese,2024-04-14,36,3,460,Delivered
+ORD1039,Simran Kaur,R109,South Indian,2024-04-16,22,5,350,Delivered
+ORD1040,Tariq Ali,R110,Biryani,2024-04-18,88,2,860,Delayed
+ORD1041,Bhavna Mishra,R111,North Indian,2024-04-20,27,5,680,Delivered
+ORD1042,Karan Johar,R112,Italian,2024-04-22,33,4,720,Delivered
+ORD1043,Lata Mangeshkar,R113,Chinese,2024-04-23,49,3,370,Delivered
+ORD1044,Udit Narayan,R114,South Indian,2024-04-24,25,4,290,Delivered
+ORD1045,Sunidhi Chauhan,R115,Biryani,2024-04-25,38,5,910,Delivered
+ORD1046,Shreya Ghoshal,R101,North Indian,2024-04-26,24,5,790,Delivered
+ORD1047,Arijit Singh,R102,Italian,2024-04-27,35,4,630,Delivered
+ORD1048,Sonu Nigam,R103,Chinese,2024-04-28,29,4,510,Delivered
+ORD1049,Armaan Malik,R104,South Indian,2024-04-28,19,5,310,Delivered
+ORD1050,Badshah Grover,R105,Biryani,2024-04-29,43,3,770,Delivered
+ORD1051,Diljit Dosanjh,R106,North Indian,2024-04-29,31,4,550,Delivered
+ORD1052,Monali Thakur,R107,Italian,2024-04-30,29,5,870,Delivered
+ORD1053,Amit Trivedi,R108,Chinese,2024-04-30,62,1,400,Cancelled
+ORD1054,Neeti Mohan,R109,South Indian,2024-04-30,21,5,330,Delivered
+ORD1055,Jubin Nautiyal,R110,Biryani,2024-04-30,39,4,830,Delivered
+ORD1056,Darshan Raval,R111,North Indian,2024-04-30,28,4,610,Delivered
+ORD1057,Jonita Gandhi,R112,Italian,2024-04-30,32,4,740,Delivered
+ORD1058,Papon Mahanta,R113,Chinese,2024-04-30,47,3,380,Delivered
+ORD1059,Harshdeep Kaur,R114,South Indian,2024-04-30,22,5,300,Delivered
+ORD1060,Hardy Sandhu,R115,Biryani,2024-04-30,37,5,940,Delivered

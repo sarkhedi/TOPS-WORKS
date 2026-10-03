@@ -1,0 +1,17 @@
+RestaurantID,RestaurantName,Zone,Category,AvgRating
+R101,Punjab Grill,North,Dine-in,4.6
+R102,Bella Italia,South,Dine-in,4.5
+R103,Mainland China,Central,Dine-in,4.4
+R104,Biryani By Kilo,East,Cloud Kitchen,4.5
+R105,Kake Da Dhaba,North,Dine-in,4.2
+R106,Toscano Trattoria,West,Dine-in,4.7
+R107,Noodle Bar,West,QSR,4.1
+R108,Behrouz Biryani,North,Cloud Kitchen,4.6
+R109,Moti Mahal Delux,Central,Dine-in,4.3
+R110,Little Italy,East,Dine-in,4.4
+R111,Wok Express,East,Cloud Kitchen,4.0
+R112,Madras Tiffin,West,QSR,4.2
+R113,Paradise Biryani,South,Dine-in,4.5
+R114,Curry Bowl,East,Cloud Kitchen,4.1
+R115,Pind Balluchi,Central,Dine-in,4.3
+R116,Osteria Delizia,South,Dine-in,4.6
