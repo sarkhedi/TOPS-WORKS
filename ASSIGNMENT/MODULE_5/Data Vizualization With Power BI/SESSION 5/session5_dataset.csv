@@ -1,0 +1,51 @@
+Transaction_ID,First Name,Last Name,Restaurant Name - Area,Movie Name,Order Status,Order Amount
+TXN1001,Isha,Iyer,Bikanervala - Maninagar,Tiger 3,Cancelled,1192.73
+TXN1002,Aditya,Iyer,La Pinoz Pizza - Maninagar,,Cancelled,525.00
+TXN1003,Karan,Patel,Bikanervala - Sadar Bazaar,,Cancelled,1239.04
+TXN1004,Varun,Sharma,Punjab Grill - Fatehabad Road,,Cancelled,2154.65
+TXN1005,Simran,Trivedi,Dominos Pizza - Prahlad Nagar,,Delivered,3817.16
+TXN1006,Rahul,Reddy,Honeydew Restaurant - Sanjay Place,Animal,Cancelled,4789.34
+TXN1007,Neha,Iyer,Mama Chicken - Civil Lines,,Delivered,1858.00
+TXN1008,Vikram,Mishra,Dominos Pizza - Prahlad Nagar,,Delivered,3674.69
+TXN1009,Sanjay,Iyer,The Belgian Waffle - Civil Lines,,Delivered,2804.00
+TXN1010,Shreya,Mishra,The Belgian Waffle - Satellite,,Delivered,2928.03
+TXN1011,Ritu,Mehta,Bikanervala - Bodakdev,,Cancelled,3887.03
+TXN1012,Gaurav,Singh,Haldiram - Navrangpura,Salaar,Cancelled,274.69
+TXN1013,Pooja,Patel,Barbeque Nation - Shahganj,,Delivered,4247.93
+TXN1014,Varun,Sharma,Subway - Bodakdev,,Delivered,4196.88
+TXN1015,Simran,Kapoor,Sugar N Thyme - Vastrapur,,Delivered,4848.24
+TXN1016,Tanvi,Malhotra,Chai Point - Fatehabad Road,,Cancelled,3274.77
+TXN1017,Karan,Patel,The Belgian Waffle - Prahlad Nagar,,Delivered,1681.33
+TXN1018,Neha,Deshmukh,Mama Chicken - Sadar Bazaar,Pathaan,Delivered,1285.49
+TXN1019,Diya,Shah,Punjab Grill - Sadar Bazaar,,Delivered,4079.24
+TXN1020,Deepak,Bose,Subway - Satellite,,Cancelled,4641.51
+TXN1021,Aarav,Joshi,Sugar N Thyme - Vastrapur,,Delivered,3035.81
+TXN1022,Bhavna,Yadav,Cake House - Sadar Bazaar,,Delivered,3222.84
+TXN1023,Simran,Patel,La Pinoz Pizza - Shahganj,,Cancelled,1882.35
+TXN1024,Rohan,Gupta,Haldiram - SG Highway,,Delivered,1807.57
+TXN1025,Nisha,Kapoor,Bikanervala - Sadar Bazaar,Jawan,Cancelled,4143.08
+TXN1026,Pooja,Singh,Chai Point - SG Highway,,Cancelled,4797.74
+TXN1027,Tanvi,Mehta,Haldiram - Navrangpura,,Delivered,381.16
+TXN1028,Kunal,Bose,Mama Chicken - Sadar Bazaar,,Delivered,479.52
+TXN1029,Shreya,Sharma,Cake House - Bodakdev,,Cancelled,114.28
+TXN1030,Rahul,Gupta,Dominos Pizza - Prahlad Nagar,,Delivered,1732.19
+TXN1031,Manish,Reddy,Cake House - Maninagar,Kalki 2898 AD,Delivered,3971.86
+TXN1032,Diya,Patel,Chai Point - Sadar Bazaar,,Delivered,4278.47
+TXN1033,Sneha,Yadav,Honeydew Restaurant - Sadar Bazaar,,Cancelled,3835.34
+TXN1034,Kunal,Pandey,Sugar N Thyme - Fatehabad Road,,Delivered,4247.93
+TXN1035,Aditya,Reddy,The Belgian Waffle - Satellite,,Delivered,2154.65
+TXN1036,Aarav,Iyer,Mama Chicken - Sanjay Place,,Cancelled,1858.00
+TXN1037,Priya,Mehta,Subway - Vastrapur,,Delivered,3817.16
+TXN1038,Meera,Trivedi,Bhagat Halwai - Khandari,Fighter,Cancelled,1239.04
+TXN1039,Amit,Shah,Salt Cafe - Fatehabad Road,,Delivered,3674.69
+TXN1040,Bhavna,Deshmukh,Barbeque Nation - Civil Lines,,Cancelled,1192.73
+TXN1041,Rohan,Chopra,Dominos Pizza - Sanjay Place,,Delivered,525.00
+TXN1042,Kavita,Gupta,The Belgian Waffle - Navrangpura,,Cancelled,274.69
+TXN1043,Arjun,Joshi,Punjab Grill - Satellite,,Delivered,4848.24
+TXN1044,Nisha,Nair,Cake House - Civil Lines,Dunki,Delivered,4079.24
+TXN1045,Sanjay,Sharma,Haldiram - Maninagar,,Cancelled,3274.77
+TXN1046,Harsh,Verma,Salt Cafe - Shahganj,,Delivered,1681.33
+TXN1047,Shreya,Patel,Chai Point - Bodakdev,,Delivered,3222.84
+TXN1048,Tanvi,Singh,La Pinoz Pizza - Vastrapur,,Cancelled,4641.51
+TXN1049,Gaurav,Mehta,Bikanervala - Dayal Bagh,,Delivered,3035.81
+TXN1050,Rahul,Verma,Mama Chicken - SG Highway,,Delivered,1807.57
