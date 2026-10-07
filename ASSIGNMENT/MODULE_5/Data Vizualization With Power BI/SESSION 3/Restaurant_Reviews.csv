@@ -1,0 +1,12 @@
+ReviewID,RestaurantID,ReviewerName,UserRating
+1,101,Amit Patel,4.5
+2,101,Pooja Shah,4.0
+3,101,Rahul Dave,4.2
+4,102,Neha Joshi,5.0
+5,102,Karan Mehta,4.8
+6,103,Deepak Vyas,4.7
+7,103,Sonal Trivedi,4.6
+8,104,Manoj Vala,4.4
+9,104,Bhavin Solanki,4.1
+10,105,Ananya Desai,4.5
+11,105,Hardik Patel,3.8
