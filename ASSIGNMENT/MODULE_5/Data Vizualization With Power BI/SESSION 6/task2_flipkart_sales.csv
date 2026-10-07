@@ -1,0 +1,16 @@
+ProductID,Category,ProductName,SalesAmount
+P001,Electronics,Wireless Mouse,1200
+P002,Clothing,Cotton Shirt,850
+P003,Electronics,Headphones,2400
+P004,Home & Kitchen,Mixer Grinder,3200
+P005,Clothing,Jeans,1400
+P006,Electronics,Smart Watch,4500
+P007,Books,Python Guide,650
+P008,Clothing,T-Shirt,499
+P009,Home & Kitchen,Cookware Set,2800
+P010,Electronics,Bluetooth Speaker,1999
+P011,Books,Data Analytics 101,850
+P012,Home & Kitchen,Air Fryer,5200
+P013,Clothing,Kurta,1100
+P014,Electronics,Keyboard,1650
+P015,Books,Power BI Handbook,720
