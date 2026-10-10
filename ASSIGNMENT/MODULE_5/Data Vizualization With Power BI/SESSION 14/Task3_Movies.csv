@@ -1,0 +1,16 @@
+MovieID,MovieTitle,Genre,ReleaseYear,UserRating,VotesCount,DurationMins
+M101,Inception,Sci-Fi,2010,8.8,2400000,148
+M102,Interstellar,Sci-Fi,2014,8.7,1950000,169
+M103,The Dark Knight,Action,2008,9.0,2750000,152
+M104,Avengers: Endgame,Action,2019,8.4,1200000,181
+M105,3 Idiots,Comedy,2009,8.4,410000,170
+M106,Hera Pheri,Comedy,2000,8.2,180000,156
+M107,Dangal,Drama,2016,8.3,210000,161
+M108,12th Fail,Drama,2023,8.9,130000,147
+M109,The Conjuring,Horror,2013,7.5,540000,112
+M110,Tumbbad,Horror,2018,8.2,65000,104
+M111,Oppenheimer,Drama,2023,8.9,780000,180
+M112,The Matrix,Sci-Fi,1999,8.7,1980000,136
+M113,John Wick 4,Action,2023,7.7,320000,169
+M114,Stree 2,Comedy,2024,7.8,85000,147
+M115,Sholay,Action,1975,8.1,70000,204

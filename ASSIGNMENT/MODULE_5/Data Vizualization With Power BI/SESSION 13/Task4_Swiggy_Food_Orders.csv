@@ -1,0 +1,31 @@
+Order_ID,Food_Item,Category,Order_Count,Average_Price_INR,City,Delivery_Rating
+401,Chicken Biryani,Main Course,14500,280,Hyderabad,4.6
+402,Paneer Butter Masala,Main Course,12800,220,Bengaluru,4.5
+403,Masala Dosa,Breakfast / Snacks,11900,90,Bengaluru,4.7
+404,Butter Naan,Breads,10400,45,Delhi,4.4
+405,Gulab Jamun,Desserts,9800,70,Kolkata,4.6
+406,Veg Hakka Noodles,Chinese,9200,160,Mumbai,4.2
+407,Margherita Pizza,Fast Food,8900,250,Pune,4.3
+408,Chicken Shawarma,Fast Food,8700,130,Hyderabad,4.5
+409,Veg Fried Rice,Chinese,8400,150,Ahmedabad,4.1
+410,Chicken Tikka,Starters,8100,290,Delhi,4.5
+411,Idli Sambar,Breakfast / Snacks,7800,60,Chennai,4.6
+412,Chole Bhature,North Indian,7600,120,Delhi,4.4
+413,Cold Coffee,Beverages,7400,110,Mumbai,4.3
+414,Pav Bhaji,Street Food,7200,140,Mumbai,4.5
+415,Hyderabadi Dum Biryani,Main Course,7100,310,Hyderabad,4.7
+416,Crispy Corn,Starters,6800,180,Bengaluru,4.2
+417,Garlic Breadsticks,Sides,6500,120,Pune,4.1
+418,Manchurian Gravy,Chinese,6300,170,Kolkata,4.0
+419,Rasmalai,Desserts,5900,90,Kolkata,4.8
+420,Tandoori Roti,Breads,5800,25,Delhi,4.3
+421,Falooda,Desserts,5500,130,Ahmedabad,4.4
+422,French Fries,Sides,5300,99,Bengaluru,4.1
+423,Momos Steamed,Snacks,5100,110,Delhi,4.3
+424,Peri Peri Fries,Sides,4900,120,Mumbai,4.2
+425,Chocolate Brownie,Desserts,4700,140,Bengaluru,4.6
+426,Dal Makhani,Main Course,4600,210,Delhi,4.5
+427,Spring Rolls,Chinese,4300,150,Pune,4.0
+428,Egg Roll,Rolls,4100,80,Kolkata,4.3
+429,Filter Coffee,Beverages,3900,50,Chennai,4.8
+430,Paneer Tikka Roll,Rolls,3800,160,Gurugram,4.2

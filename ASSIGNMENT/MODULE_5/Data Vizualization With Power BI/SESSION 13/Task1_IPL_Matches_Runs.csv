@@ -1,0 +1,49 @@
+Match_ID,Season,Team,Player,Runs,Balls_Faced,Fours,Sixes,Strike_Rate
+101,2023,Chennai Super Kings,Ruturaj Gaikwad,590,400,56,30,147.50
+102,2023,Chennai Super Kings,Devon Conway,672,480,77,18,140.00
+103,2023,Chennai Super Kings,Shivam Dube,418,264,12,35,158.33
+104,2023,Chennai Super Kings,Ajinkya Rahane,326,192,24,16,169.79
+105,2023,Chennai Super Kings,MS Dhoni,104,57,3,10,182.46
+106,2023,Chennai Super Kings,Ravindra Jadeja,190,133,11,9,142.86
+107,2023,Gujarat Titans,Shubman Gill,890,564,85,33,157.80
+108,2023,Gujarat Titans,Wriddhiman Saha,317,245,41,8,129.39
+109,2023,Gujarat Titans,Hardik Pandya,346,254,27,11,136.22
+110,2023,Gujarat Titans,David Miller,259,178,16,13,145.51
+111,2023,Gujarat Titans,Vijay Shankar,301,188,21,15,160.11
+112,2023,Gujarat Titans,Rahul Tewatia,87,57,5,6,152.63
+113,2023,Mumbai Indians,Suryakumar Yadav,605,334,65,28,181.14
+114,2023,Mumbai Indians,Rohit Sharma,332,250,35,17,132.80
+115,2023,Mumbai Indians,Ishan Kishan,454,319,54,18,142.32
+116,2023,Mumbai Indians,Cameron Green,452,282,40,22,160.28
+117,2023,Mumbai Indians,Tilak Varma,343,209,26,23,164.11
+118,2023,Mumbai Indians,Tim David,231,146,14,16,158.22
+119,2023,Royal Challengers Bangalore,Faf du Plessis,730,475,60,36,153.68
+120,2023,Royal Challengers Bangalore,Virat Kohli,639,457,65,16,139.82
+121,2023,Royal Challengers Bangalore,Glenn Maxwell,400,218,29,31,183.49
+122,2023,Royal Challengers Bangalore,Dinesh Karthik,140,104,11,5,134.62
+123,2023,Royal Challengers Bangalore,Anuj Rawat,91,71,8,4,128.17
+124,2023,Royal Challengers Bangalore,Mahipal Lomror,135,102,12,6,132.35
+125,2023,Kolkata Knight Riders,Rinku Singh,474,317,31,29,149.53
+126,2023,Kolkata Knight Riders,Nitish Rana,413,293,39,20,140.96
+127,2023,Kolkata Knight Riders,Venkatesh Iyer,404,277,32,21,145.85
+128,2023,Kolkata Knight Riders,Andre Russell,227,156,19,15,145.51
+129,2023,Kolkata Knight Riders,Jason Roy,285,188,34,12,151.60
+130,2023,Kolkata Knight Riders,Rahmanullah Gurbaz,227,170,19,17,133.53
+131,2023,Rajasthan Royals,Yashasvi Jaiswal,625,382,82,26,163.61
+132,2023,Rajasthan Royals,Jos Buttler,392,282,42,14,139.01
+133,2023,Rajasthan Royals,Sanju Samson,362,236,25,24,153.39
+134,2023,Rajasthan Royals,Shimron Hetmyer,299,197,14,23,151.78
+135,2023,Rajasthan Royals,Dhruv Jurel,152,88,11,9,172.73
+136,2023,Rajasthan Royals,Devdutt Padikkal,261,200,31,7,130.50
+137,2023,Lucknow Super Giants,Nicholas Pooran,358,207,26,26,172.95
+138,2023,Lucknow Super Giants,Marcus Stoinis,408,272,28,27,150.00
+139,2023,Lucknow Super Giants,Kyle Mayers,379,263,35,22,144.11
+140,2023,Lucknow Super Giants,KL Rahul,274,242,28,4,113.22
+141,2023,Lucknow Super Giants,Ayush Badoni,238,172,13,11,138.37
+142,2023,Lucknow Super Giants,Krunal Pandya,188,165,15,5,113.94
+143,2023,Delhi Capitals,David Warner,516,392,69,10,131.63
+144,2023,Delhi Capitals,Axar Patel,283,203,21,12,139.41
+145,2023,Delhi Capitals,Philip Salt,222,135,24,10,164.44
+146,2023,Delhi Capitals,Mitchell Marsh,128,97,11,8,131.96
+147,2023,Delhi Capitals,Manish Pandey,160,146,14,4,109.59
+148,2023,Delhi Capitals,Rilee Rossouw,209,141,18,11,148.23

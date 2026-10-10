@@ -1,0 +1,31 @@
+Restaurant_ID,Restaurant_Name,City,Cuisine,Rating,Votes,Average_Cost_For_Two,Online_Order
+301,The Fatty Bao,Bengaluru,Asian,4.8,3240,1500,Yes
+302,Toit Brewpub,Bengaluru,Continental,4.7,6800,2000,Yes
+303,Corner House Ice Cream,Bengaluru,Desserts,4.6,5120,400,Yes
+304,Bukhara - ITC Maurya,New Delhi,North Indian,4.9,4980,5000,No
+305,Indian Accent,New Delhi,Modern Indian,4.9,4200,6000,No
+306,Gulati Restaurant,New Delhi,North Indian,4.6,7150,1800,Yes
+307,Trishna Seafood,Mumbai,Seafood,4.7,3890,2800,No
+308,Britannia & Co.,Mumbai,Parsi,4.6,2900,1200,No
+309,Bademiya,Mumbai,Mughlai,3.9,4500,900,Yes
+310,Truffles,Bengaluru,American,4.4,9800,800,Yes
+311,Vidyarthi Bhavan,Bengaluru,South Indian,4.3,6400,300,No
+312,Saravana Bhavan,Chennai,South Indian,4.2,5300,500,Yes
+313,Karim's,New Delhi,Mughlai,4.1,8200,1100,Yes
+314,Sardar Refreshments,Mumbai,Street Food,3.8,3100,450,No
+315,Haldiram's,Nagpur,North Indian / Snacks,3.9,4100,600,Yes
+316,Cafe Mondegar,Mumbai,Cafe,4.0,3700,1400,No
+317,Pizza Hut Central,Pune,Italian / Fast Food,3.6,1800,800,Yes
+318,Subway Express,Ahmedabad,Fast Food,3.7,1450,500,Yes
+319,Burger King Drive-thru,Hyderabad,Fast Food,3.5,2100,600,Yes
+320,Chai Point,Gurugram,Beverages,3.8,1950,300,Yes
+321,Local Chai Tapri,Jaipur,Beverages,2.8,350,150,No
+322,Quick Bites Dhaba,Kolkata,Fast Food,2.6,480,250,Yes
+323,Highway Star Cafe,Pune,Snacks,2.4,220,350,No
+324,Midnight Express Chinese,Ahmedabad,Chinese,2.9,610,400,Yes
+325,City Corner Biryani,Hyderabad,Biryani,2.7,540,300,Yes
+326,Railway Station Canteen,Surat,Indian,2.2,190,200,No
+327,Daily Foodies Bowl,Indore,North Indian,2.5,310,250,Yes
+328,Manjit Da Dhaba,Amritsar,Punjabi,4.6,3400,700,No
+329,Flurys,Kolkata,Bakery,4.2,4600,1000,Yes
+330,Peter Cat,Kolkata,Continental,4.4,7200,1500,No

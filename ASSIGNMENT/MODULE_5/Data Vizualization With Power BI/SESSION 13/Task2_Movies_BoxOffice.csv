@@ -1,0 +1,36 @@
+Movie_ID,Movie_Title,Genre,Release_Year,Director,Budget_Cr,Box_Office_Cr,IMDb_Rating
+201,The Dark Knight,Action,2008,Christopher Nolan,1500,8300,9.0
+202,Iron Man,Action,2008,Jon Favreau,1160,4860,7.9
+203,Inception,Action,2010,Christopher Nolan,1330,6940,8.8
+204,The Avengers,Action,2012,Joss Whedon,1830,12650,8.0
+205,Mad Max: Fury Road,Action,2015,George Miller,1250,3160,8.1
+206,Avengers: Infinity War,Action,2018,Anthony and Joe Russo,2500,17100,8.4
+207,Avengers: Endgame,Action,2019,Anthony and Joe Russo,2950,23350,8.4
+208,Top Gun: Maverick,Action,2022,Joseph Kosinski,1410,12450,8.3
+209,RRR,Action,2022,S. S. Rajamouli,550,1380,7.8
+210,Jawan,Action,2023,Atlee,300,1150,7.0
+211,Superbad,Comedy,2007,Greg Mottola,166,1420,7.6
+212,The Hangover,Comedy,2009,Todd Phillips,290,3880,7.7
+213,3 Idiots,Comedy,2009,Rajkumar Hirani,55,460,8.4
+214,Bridesmaids,Comedy,2011,Paul Feig,270,2400,6.8
+215,21 Jump Street,Comedy,2012,Phil Lord and Christopher Miller,350,1670,7.2
+216,PK,Comedy,2014,Rajkumar Hirani,85,854,8.1
+217,Deadpool,Comedy,2016,Tim Miller,480,6500,8.0
+218,Knives Out,Comedy,2019,Rian Johnson,330,2600,7.9
+219,Barbie,Comedy,2023,Greta Gerwig,1200,12020,6.9
+220,The Social Network,Drama,2010,David Fincher,330,1870,7.8
+221,Whiplash,Drama,2014,Damien Chazelle,27,410,8.5
+222,Dangal,Drama,2016,Nitesh Tiwari,70,2024,8.3
+223,Parasite,Drama,2019,Bong Joon-ho,130,2190,8.5
+224,Oppenheimer,Drama,2023,Christopher Nolan,830,7950,8.9
+225,12th Fail,Drama,2023,Vidhu Vinod Chopra,20,67,8.9
+226,Interstellar,Sci-Fi,2014,Christopher Nolan,1370,5910,8.7
+227,The Martian,Sci-Fi,2015,Ridley Scott,890,5230,8.0
+228,Arrival,Sci-Fi,2016,Denis Villeneuve,390,1690,7.9
+229,Dune,Sci-Fi,2021,Denis Villeneuve,1370,3350,8.0
+230,Dune: Part Two,Sci-Fi,2024,Denis Villeneuve,1580,5930,8.6
+231,The Conjuring,Horror,2013,James Wan,166,2660,7.5
+232,Get Out,Horror,2017,Jordan Peele,37,2130,7.8
+233,A Quiet Place,Horror,2018,John Krasinski,140,2830,7.5
+234,Stree,Horror,2018,Amar Kaushik,25,181,7.5
+235,Stree 2,Horror,2024,Amar Kaushik,60,875,7.2

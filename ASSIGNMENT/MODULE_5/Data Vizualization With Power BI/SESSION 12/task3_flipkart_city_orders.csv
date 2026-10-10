@@ -1,0 +1,31 @@
+City,State,Country,Order_Volume,Category_Dominance,Average_Order_Value_INR
+Bengaluru,Karnataka,India,1450000,Electronics,2450
+Delhi,Delhi,India,1380000,Fashion,1890
+Mumbai,Maharashtra,India,1290000,Appliances,2800
+Hyderabad,Telangana,India,980000,Electronics,2150
+Chennai,Tamil Nadu,India,870000,Home & Kitchen,1950
+Kolkata,West Bengal,India,790000,Fashion,1450
+Pune,Maharashtra,India,750000,Electronics,2300
+Ahmedabad,Gujarat,India,710000,Textiles & Fashion,1850
+Jaipur,Rajasthan,India,520000,Home Decor,1600
+Surat,Gujarat,India,490000,Fashion,1550
+Lucknow,Uttar Pradesh,India,460000,Consumer Goods,1400
+Indore,Madhya Pradesh,India,380000,Electronics,1750
+Chandigarh,Punjab,India,340000,Fashion & Lifestyle,2200
+Coimbatore,Tamil Nadu,India,310000,Appliances,2100
+Patna,Bihar,India,290000,Mobile Phones,1850
+Nagpur,Maharashtra,India,275000,Groceries & Staples,1300
+Bhopal,Madhya Pradesh,India,250000,Home Essentials,1450
+Kochi,Kerala,India,235000,Electronics,2600
+Visakhapatnam,Andhra Pradesh,India,220000,Fashion,1550
+Vadodara,Gujarat,India,205000,Consumer Electronics,1900
+Ludhiana,Punjab,India,185000,Apparel,1700
+Varanasi,Uttar Pradesh,India,160000,Handloom & Gifts,1250
+Guwahati,Assam,India,140000,Fashion,1400
+Ranchi,Jharkhand,India,125000,Mobile & Accessories,1600
+Dehradun,Uttarakhand,India,98000,Lifestyle & Books,1500
+Mysuru,Karnataka,India,85000,Personal Care,1350
+Raipur,Chhattisgarh,India,72000,Home Appliances,1650
+Shimla,Himachal Pradesh,India,32000,Winter Wear & Travel,2100
+Gangtok,Sikkim,India,18000,Footwear & Jackets,2300
+Agartala,Tripura,India,12000,Daily Essentials,1150

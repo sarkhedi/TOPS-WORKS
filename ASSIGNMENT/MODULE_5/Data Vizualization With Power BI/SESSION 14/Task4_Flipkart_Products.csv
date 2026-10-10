@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,Brand,Price,Discount,Rating,UnitsSold
+P101,Noise ColorFit Smartwatch,Wearables,Noise,3999,1500,4.2,450
+P102,boAt Rockerz 450,Audio,boAt,1999,800,4.1,890
+P103,Samsung 43-inch 4K TV,Electronics,Samsung,32999,5000,4.5,120
+P104,Realme Narzo 60X,Mobiles,Realme,14999,2000,4.3,670
+P105,Puma Running Shoes,Fashion,Puma,4500,1800,4.0,340
+P106,Sony WH-1000XM5,Audio,Sony,29990,4000,4.7,95
+P107,Prestige Air Fryer,Kitchen,Prestige,5999,1200,4.4,210
+P108,Wildcraft Laptop Backpack,Fashion,Wildcraft,2299,600,4.3,510
+P109,Mi Power Bank 20000mAh,Electronics,Xiaomi,2199,400,4.4,920
+P110,Apple iPhone 14,Mobiles,Apple,69900,8000,4.6,380
+P111,Philips Trimmer Series 3000,Grooming,Philips,1899,400,4.2,430
+P112,OnePlus Nord CE 3 Lite,Mobiles,OnePlus,19999,2500,4.3,560

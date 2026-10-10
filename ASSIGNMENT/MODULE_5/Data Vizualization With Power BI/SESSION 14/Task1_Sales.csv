@@ -1,0 +1,16 @@
+OrderID,CustomerName,Product,Category,OrderDate,OrderAmount
+1001,Aarav Patel,iPhone 15,Electronics,2024-01-05,799
+1002,Priya Sharma,MacBook Air,Electronics,2024-01-07,999
+1003,Rohan Verma,Sony Headphones,Accessories,2024-01-10,149
+1004,Sneha Gupta,Dell XPS 13,Electronics,2024-01-12,1199
+1005,Vikram Singh,Apple Watch,Wearables,2024-01-15,399
+1006,Ananya Roy,Logitech Mouse,Accessories,2024-01-18,49
+1007,Kabir Mehta,Samsung Galaxy S24,Electronics,2024-01-20,849
+1008,Neha Joshi,Kindle Paperwhite,Electronics,2024-01-22,139
+1009,Aditya Nair,Bose SoundLink,Audio,2024-01-25,199
+1010,Pooja Bhatia,iPad Air,Tablets,2024-01-28,599
+1011,Karan Desai,Asus Gaming Laptop,Electronics,2024-02-02,1299
+1012,Ritu Sen,Fitbit Charge 6,Wearables,2024-02-05,159
+1013,Manish Chawla,Mechanical Keyboard,Accessories,2024-02-08,89
+1014,Tanvi Kulkarni,AirPods Pro,Audio,2024-02-12,249
+1015,Rahul Malhotra,GoPro Hero 12,Cameras,2024-02-15,399

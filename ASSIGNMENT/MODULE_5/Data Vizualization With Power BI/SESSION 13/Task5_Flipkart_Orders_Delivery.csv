@@ -1,0 +1,36 @@
+Order_ID,Customer_City,Order_Date,Delivery_Date,Delivery_Time_Days,Product_Category,Order_Value_INR,Delivery_Status
+OD1001,Bengaluru,2023-11-01,2023-11-03,2,Electronics,24999,Delivered
+OD1002,Mumbai,2023-11-01,2023-11-04,3,Fashion,1850,Delivered
+OD1003,Delhi,2023-11-02,2023-11-04,2,Home & Kitchen,3400,Delivered
+OD1004,Hyderabad,2023-11-02,2023-11-06,4,Mobiles,15999,Delivered
+OD1005,Ahmedabad,2023-11-03,2023-11-06,3,Electronics,4200,Delivered
+OD1006,Pune,2023-11-03,2023-11-05,2,Fashion,2200,Delivered
+OD1007,Kolkata,2023-11-04,2023-11-09,5,Appliances,12500,Delivered
+OD1008,Chennai,2023-11-04,2023-11-07,3,Beauty & Grooming,950,Delivered
+OD1009,Bengaluru,2023-11-05,2023-11-07,2,Mobiles,49999,Delivered
+OD1010,Jaipur,2023-11-05,2023-11-10,5,Home & Kitchen,1450,Delivered
+OD1011,Lucknow,2023-11-06,2023-11-11,5,Fashion,3100,Delivered
+OD1012,Mumbai,2023-11-06,2023-11-08,2,Electronics,8990,Delivered
+OD1013,Surat,2023-11-07,2023-11-10,3,Fashion,1250,Delivered
+OD1014,Delhi,2023-11-07,2023-11-09,2,Books,650,Delivered
+OD1015,Indore,2023-11-08,2023-11-12,4,Appliances,7800,Delivered
+OD1016,Kolkata,2023-11-08,2023-11-14,6,Electronics,18200,Delivered
+OD1017,Hyderabad,2023-11-09,2023-11-12,3,Fashion,2750,Delivered
+OD1018,Chennai,2023-11-09,2023-11-13,4,Mobiles,21499,Delivered
+OD1019,Bengaluru,2023-11-10,2023-11-11,1,Grocery,1100,Delivered
+OD1020,Ahmedabad,2023-11-10,2023-11-13,3,Beauty & Grooming,1400,Delivered
+OD1021,Pune,2023-11-11,2023-11-14,3,Home & Kitchen,2800,Delivered
+OD1022,Jaipur,2023-11-11,2023-11-15,4,Fashion,1950,Delivered
+OD1023,Lucknow,2023-11-12,2023-11-16,4,Mobiles,13999,Delivered
+OD1024,Mumbai,2023-11-12,2023-11-15,3,Electronics,34500,Delivered
+OD1025,Delhi,2023-11-13,2023-11-14,1,Grocery,850,Delivered
+OD1026,Surat,2023-11-13,2023-11-17,4,Appliances,6500,Delivered
+OD1027,Indore,2023-11-14,2023-11-18,4,Fashion,2100,Delivered
+OD1028,Kolkata,2023-11-14,2023-11-19,5,Home & Kitchen,3900,Delivered
+OD1029,Bengaluru,2023-11-15,2023-11-17,2,Mobiles,32999,Delivered
+OD1030,Hyderabad,2023-11-15,2023-11-18,3,Electronics,11200,Delivered
+OD1031,Ahmedabad,2023-11-16,2023-11-18,2,Fashion,1700,Delivered
+OD1032,Chennai,2023-11-16,2023-11-19,3,Electronics,15800,Delivered
+OD1033,Pune,2023-11-17,2023-11-19,2,Mobiles,18999,Delivered
+OD1034,Jaipur,2023-11-17,2023-11-21,4,Beauty & Grooming,1200,Delivered
+OD1035,Delhi,2023-11-18,2023-11-20,2,Fashion,2600,Delivered
