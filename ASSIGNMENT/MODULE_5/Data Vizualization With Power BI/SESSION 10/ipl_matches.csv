@@ -1,0 +1,21 @@
+Match_ID,Match_Date,Team_Name,Opponent_Team,Venue,Runs_Scored,Result
+101,2024-03-22,Chennai Super Kings,Royal Challengers Bengaluru,Chennai,176,Won
+102,2024-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata,208,Won
+103,2024-03-24,Gujarat Titans,Mumbai Indians,Ahmedabad,168,Won
+104,2024-03-25,Royal Challengers Bengaluru,Punjab Kings,Bengaluru,178,Won
+105,2024-03-26,Chennai Super Kings,Gujarat Titans,Chennai,206,Won
+106,2024-03-27,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,277,Won
+107,2024-03-28,Rajasthan Royals,Delhi Capitals,Jaipur,185,Won
+108,2024-03-29,Kolkata Knight Riders,Royal Challengers Bengaluru,Bengaluru,186,Won
+109,2024-03-30,Lucknow Super Giants,Punjab Kings,Lucknow,199,Won
+110,2024-03-31,Delhi Capitals,Chennai Super Kings,Visakhapatnam,191,Won
+111,2024-04-01,Rajasthan Royals,Mumbai Indians,Mumbai,127,Won
+112,2024-04-02,Royal Challengers Bengaluru,Lucknow Super Giants,Bengaluru,153,Lost
+113,2024-04-03,Kolkata Knight Riders,Delhi Capitals,Visakhapatnam,272,Won
+114,2024-04-04,Punjab Kings,Gujarat Titans,Ahmedabad,200,Won
+115,2024-04-05,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad,166,Won
+116,2024-04-06,Rajasthan Royals,Royal Challengers Bengaluru,Jaipur,189,Won
+117,2024-04-07,Mumbai Indians,Delhi Capitals,Mumbai,234,Won
+118,2024-04-07,Lucknow Super Giants,Gujarat Titans,Lucknow,163,Won
+119,2024-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai,141,Won
+120,2024-04-09,Sunrisers Hyderabad,Punjab Kings,Mullanpur,182,Won

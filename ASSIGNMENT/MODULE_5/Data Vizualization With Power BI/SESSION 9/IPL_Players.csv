@@ -1,0 +1,41 @@
+PlayerID,PlayerName,TeamID,Role,BattingStyle,BowlingStyle,PlayerEmail,PlayerPhone
+P001,MS Dhoni,T01,Wicketkeeper-Batter,Right-hand bat,Right-arm medium,ms.dhoni@csk.com,+91-9820011001
+P002,Ruturaj Gaikwad,T01,Batter,Right-hand bat,Right-arm offbreak,ruturaj.g@csk.com,+91-9820011002
+P003,Ravindra Jadeja,T01,All-Rounder,Left-hand bat,Slow left-arm orthodox,r.jadeja@csk.com,+91-9820011003
+P004,Shivam Dube,T01,All-Rounder,Left-hand bat,Right-arm medium,shivam.d@csk.com,+91-9820011004
+P005,Rohit Sharma,T02,Batter,Right-hand bat,Right-arm offbreak,rohit.sharma@mumbaiindians.com,+91-9820022001
+P006,Hardik Pandya,T02,All-Rounder,Right-hand bat,Right-arm fast-medium,hardik.pandya@mumbaiindians.com,+91-9820022002
+P007,Suryakumar Yadav,T02,Batter,Right-hand bat,Right-arm offbreak,sky@mumbaiindians.com,+91-9820022003
+P008,Jasprit Bumrah,T02,Bowler,Right-hand bat,Right-arm fast,j.bumrah@mumbaiindians.com,+91-9820022004
+P009,Virat Kohli,T03,Batter,Right-hand bat,Right-arm medium,virat.kohli@rcb.com,+91-9820033001
+P010,Faf du Plessis,T03,Batter,Right-hand bat,Right-arm legbreak,faf.dup@rcb.com,+91-9820033002
+P011,Glenn Maxwell,T03,All-Rounder,Right-hand bat,Right-arm offbreak,maxwell@rcb.com,+91-9820033003
+P012,Mohammed Siraj,T03,Bowler,Right-hand bat,Right-arm fast,m.siraj@rcb.com,+91-9820033004
+P013,Shreyas Iyer,T04,Batter,Right-hand bat,Right-arm legbreak,shreyas.i@kkr.in,+91-9820044001
+P014,Andre Russell,T04,All-Rounder,Right-hand bat,Right-arm fast,a.russell@kkr.in,+91-9820044002
+P015,Sunil Narine,T04,All-Rounder,Left-hand bat,Right-arm offbreak,s.narine@kkr.in,+91-9820044003
+P016,Rinku Singh,T04,Batter,Left-hand bat,Right-arm offbreak,rinku.s@kkr.in,+91-9820044004
+P017,Shubman Gill,T05,Batter,Right-hand bat,Right-arm offbreak,shubman.gill@gujarattitans.com,+91-9820055001
+P018,Rashid Khan,T05,Bowler,Right-hand bat,Right-arm legbreak,rashid.khan@gujarattitans.com,+91-9820055002
+P019,David Miller,T05,Batter,Left-hand bat,Right-arm offbreak,d.miller@gujarattitans.com,+91-9820055003
+P020,Mohammed Shami,T05,Bowler,Right-hand bat,Right-arm fast,m.shami@gujarattitans.com,+91-9820055004
+P021,Sanju Samson,T06,Wicketkeeper-Batter,Right-hand bat,Right-arm offbreak,sanju.s@rajasthanroyals.com,+91-9820066001
+P022,Jos Buttler,T06,Wicketkeeper-Batter,Right-hand bat,Right-arm medium,jos.buttler@rajasthanroyals.com,+91-9820066002
+P023,Yuzvendra Chahal,T06,Bowler,Right-hand bat,Right-arm legbreak,y.chahal@rajasthanroyals.com,+91-9820066003
+P024,Trent Boult,T06,Bowler,Right-hand bat,Left-arm fast-medium,trent.b@rajasthanroyals.com,+91-9820066004
+P025,Rishabh Pant,T07,Wicketkeeper-Batter,Left-hand bat,Right-arm offbreak,rishabh.p@delhicapitals.in,+91-9820077001
+P026,David Warner,T07,Batter,Left-hand bat,Right-arm legbreak,d.warner@delhicapitals.in,+91-9820077002
+P027,Axar Patel,T07,All-Rounder,Left-hand bat,Slow left-arm orthodox,axar.p@delhicapitals.in,+91-9820077003
+P028,Kuldeep Yadav,T07,Bowler,Left-hand bat,Left-arm wrist spin,kuldeep.y@delhicapitals.in,+91-9820077004
+P029,Pat Cummins,T08,Bowler,Right-hand bat,Right-arm fast,pat.cummins@sunrisers.com,+91-9820088001
+P030,Travis Head,T08,Batter,Left-hand bat,Right-arm offbreak,travis.head@sunrisers.com,+91-9820088002
+P031,Heinrich Klaasen,T08,Wicketkeeper-Batter,Right-hand bat,Right-arm offbreak,klaasen@sunrisers.com,+91-9820088003
+P032,Bhuvneshwar Kumar,T08,Bowler,Right-hand bat,Right-arm medium-fast,bhuvi@sunrisers.com,+91-9820088004
+P033,KL Rahul,T09,Wicketkeeper-Batter,Right-hand bat,Right-arm medium,kl.rahul@lucknowsupergiants.in,+91-9820099001
+P034,Nicholas Pooran,T09,Wicketkeeper-Batter,Left-hand bat,Right-arm offbreak,n.pooran@lucknowsupergiants.in,+91-9820099002
+P035,Marcus Stoinis,T09,All-Rounder,Right-hand bat,Right-arm medium,m.stoinis@lucknowsupergiants.in,+91-9820099003
+P036,Ravi Bishnoi,T09,Bowler,Right-hand bat,Right-arm legbreak,r.bishnoi@lucknowsupergiants.in,+91-9820099004
+P037,Shikhar Dhawan,T10,Batter,Left-hand bat,Right-arm offbreak,shikhar.d@punjabkings.in,+91-9820101001
+P038,Sam Curran,T10,All-Rounder,Left-hand bat,Left-arm medium-fast,sam.c@punjabkings.in,+91-9820101002
+P039,Arshdeep Singh,T10,Bowler,Left-hand bat,Left-arm medium-fast,arshdeep@punjabkings.in,+91-9820101003
+P040,Liam Livingstone,T10,All-Rounder,Right-hand bat,Right-arm legbreak,liam.l@punjabkings.in,+91-9820101004

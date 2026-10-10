@@ -1,0 +1,26 @@
+User_ID,User_Name,Email,City,Membership_Type,Account_Status,Signup_Date,Last_Login_Date
+U1001,Aarav Patel,aarav.p@gmail.com,Ahmedabad,Plus,Active,2023-01-15,2024-04-10
+U1002,Priya Sharma,priya.s@yahoo.com,Mumbai,Regular,Active,2023-02-20,2024-04-12
+U1003,Rohan Gupta,rohan.g@outlook.com,Delhi,Plus,Inactive,2022-11-05,2023-12-01
+U1004,Ananya Iyer,ananya.i@gmail.com,Bengaluru,Plus,Active,2023-03-10,2024-04-11
+U1005,Vikram Singh,vikram.s@gmail.com,Jaipur,Regular,Active,2023-04-02,2024-04-09
+U1006,Neha Joshi,neha.j@gmail.com,Pune,Plus,Active,2023-05-18,2024-04-13
+U1007,Karan Verma,karan.v@gmail.com,Lucknow,Regular,Inactive,2022-09-12,2023-10-14
+U1008,Sneha Nair,sneha.n@gmail.com,Kochi,Plus,Active,2023-06-25,2024-04-08
+U1009,Rahul Mehta,rahul.m@gmail.com,Ahmedabad,Regular,Active,2023-07-30,2024-04-12
+U1010,Pooja Reddy,pooja.r@gmail.com,Hyderabad,Plus,Active,2023-08-14,2024-04-11
+U1011,Amit Shah,amit.s@gmail.com,Surat,Regular,Active,2023-09-01,2024-04-10
+U1012,Riya Sen,riya.s@gmail.com,Kolkata,Plus,Inactive,2022-12-22,2023-11-20
+U1013,Devendra Yadav,dev.y@gmail.com,Bhopal,Regular,Active,2023-10-05,2024-04-07
+U1014,Tanvi Kulkarni,tanvi.k@gmail.com,Pune,Plus,Active,2023-11-12,2024-04-13
+U1015,Manish Tiwari,manish.t@gmail.com,Patna,Regular,Inactive,2022-08-19,2023-09-15
+U1016,Kavita Rao,kavita.r@gmail.com,Chennai,Plus,Active,2023-12-01,2024-04-12
+U1017,Siddharth Jain,sid.j@gmail.com,Indore,Regular,Active,2024-01-10,2024-04-11
+U1018,Meera Pillai,meera.p@gmail.com,Thiruvananthapuram,Plus,Active,2024-01-22,2024-04-13
+U1019,Aditya Das,aditya.d@gmail.com,Bhubaneswar,Regular,Inactive,2023-01-11,2023-11-05
+U1020,Nidhi Agarwal,nidhi.a@gmail.com,Kanpur,Plus,Active,2024-02-05,2024-04-10
+U1021,Harsh Trivedi,harsh.t@gmail.com,Vadodara,Regular,Active,2024-02-18,2024-04-12
+U1022,Isha Choudhary,isha.c@gmail.com,Chandigarh,Plus,Active,2024-03-01,2024-04-13
+U1023,Gaurav Bhatt,gaurav.b@gmail.com,Dehradun,Regular,Inactive,2023-03-15,2023-10-30
+U1024,Simran Kaur,simran.k@gmail.com,Amritsar,Plus,Active,2024-03-12,2024-04-11
+U1025,Chirag Pandya,chirag.p@gmail.com,Rajkot,Regular,Active,2024-03-25,2024-04-13

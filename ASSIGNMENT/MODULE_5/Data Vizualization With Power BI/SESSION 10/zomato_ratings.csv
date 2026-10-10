@@ -1,0 +1,31 @@
+Restaurant_ID,Restaurant_Name,City,Cuisine,Rating,Votes,Average_Cost_For_Two
+1,Agashiye,Ahmedabad,North Indian,4.6,1820,1900
+2,Tinello,Ahmedabad,Italian,4.4,950,2200
+3,Mainland China,Ahmedabad,Chinese,4.2,1100,1400
+4,Sankalp,Ahmedabad,South Indian,4.1,2400,700
+5,Tomato's,Ahmedabad,Mexican,4.3,1650,1200
+6,Bastian,Mumbai,Italian,4.5,3100,3500
+7,Punjab Grill,Mumbai,North Indian,4.3,2750,2400
+8,Royal China,Mumbai,Chinese,4.4,1980,2600
+9,Dakshin Culture Curry,Mumbai,South Indian,4.2,1420,1100
+10,Bademiya,Mumbai,Mughlai,4.0,5200,900
+11,Bukhara,Delhi,North Indian,4.8,4800,4500
+12,Karim's,Delhi,Mughlai,4.4,6300,1000
+13,Saravanaa Bhavan,Delhi,South Indian,4.3,3900,650
+14,Big Chill Cafe,Delhi,Italian,4.6,4100,1800
+15,Berco's,Delhi,Chinese,4.1,2900,1200
+16,CTR Shri Sagar,Bengaluru,South Indian,4.7,5600,400
+17,Truffles,Bengaluru,Fast Food,4.5,8400,800
+18,Toscano,Bengaluru,Italian,4.3,2100,2000
+19,Empire Restaurant,Bengaluru,North Indian,4.0,4600,900
+20,Sichuan Delicacy,Bengaluru,Chinese,4.2,1300,1300
+21,Paradise Biryani,Hyderabad,Mughlai,4.2,9100,1000
+22,Bawarchi,Hyderabad,North Indian,4.3,8700,900
+23,Chutneys,Hyderabad,South Indian,4.4,4300,800
+24,Little Italy,Hyderabad,Italian,4.2,1600,1600
+25,Chung Hua,Hyderabad,Chinese,4.1,1200,1100
+26,Vaishali,Pune,South Indian,4.5,6700,500
+27,German Bakery,Pune,Fast Food,4.2,3800,1100
+28,Arthur's Theme,Pune,Italian,4.4,1950,1800
+29,George Restaurant,Pune,North Indian,4.1,2600,1000
+30,Malaka Spice,Pune,Chinese,4.5,3100,2100

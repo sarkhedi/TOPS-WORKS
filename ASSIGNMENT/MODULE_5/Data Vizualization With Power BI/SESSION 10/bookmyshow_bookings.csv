@@ -1,0 +1,16 @@
+Movie_ID,Movie_Name,Language,Genre,Release_Date,Tickets_Sold,Revenue_INR
+M101,Jawan,Hindi,Action/Thriller,2023-09-07,1420000,426000000
+M102,Animal,Hindi,Crime/Drama,2023-12-01,1180000,389400000
+M103,Pathaan,Hindi,Action/Spy,2023-01-25,1250000,375000000
+M104,Gadar 2,Hindi,Action/Drama,2023-08-11,980000,245000000
+M105,Salaar: Part 1 - Ceasefire,Telugu,Action,2023-12-22,890000,267000000
+M106,Leo,Tamil,Action/Thriller,2023-10-19,850000,238000000
+M107,Fighter,Hindi,Action,2024-01-25,620000,186000000
+M108,Dunki,Hindi,Comedy/Drama,2023-12-21,570000,171000000
+M109,Kalki 2898 AD,Telugu,Sci-Fi/Action,2024-06-27,1560000,514800000
+M110,Stree 2,Hindi,Horror/Comedy,2024-08-15,1340000,402000000
+M111,12th Fail,Hindi,Biography/Drama,2023-10-27,340000,85000000
+M112,Sam Bahadur,Hindi,Biopic/War,2023-12-01,280000,78400000
+M113,Bramayugam,Malayalam,Horror/Thriller,2024-02-15,190000,47500000
+M114,Manjummel Boys,Malayalam,Survival/Thriller,2024-02-22,510000,127500000
+M115,Shaitaan,Hindi,Supernatural/Thriller,2024-03-08,430000,116100000

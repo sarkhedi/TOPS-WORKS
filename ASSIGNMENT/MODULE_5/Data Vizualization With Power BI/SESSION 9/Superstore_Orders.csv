@@ -1,0 +1,26 @@
+RowID,OrderID,OrderDate,ShipDate,ShipMode,CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region,ProductID,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit
+1,CA-2022-100037,2022-01-04,2022-01-07,Standard Class,CUST-1001,Claire Gute,Consumer,United States,New York City,New York,10024,East,PROD-FUR-101,Furniture,Bookcases,Bookcases Model B-101,261.96,2,0.0,41.91
+2,CA-2022-100074,2022-01-08,2022-01-12,Second Class,CUST-1002,Brosina Hoffman,Consumer,United States,Los Angeles,California,90036,West,PROD-FUR-102,Furniture,Chairs,Chairs Model C-102,731.94,3,0.0,219.58
+3,CA-2022-100111,2022-01-11,2022-01-15,Second Class,CUST-1003,Darrin Van Huff,Corporate,United States,San Francisco,California,94109,West,PROD-OFF-103,Office Supplies,Labels,Labels Model D-103,14.62,2,0.0,6.87
+4,CA-2022-100148,2022-01-15,2022-01-20,Standard Class,CUST-1004,Sean O'Donnell,Consumer,United States,Seattle,Washington,98103,West,PROD-FUR-104,Furniture,Tables,Tables Model E-104,957.58,5,0.45,-383.03
+5,CA-2022-100185,2022-01-19,2022-01-24,Standard Class,CUST-1005,Zuschuss Donatelli,Consumer,United States,Chicago,Illinois,60653,Central,PROD-OFF-105,Office Supplies,Storage,Storage Model F-105,22.37,2,0.2,2.52
+6,CA-2022-100222,2022-02-02,2022-02-06,Standard Class,CUST-1006,Eric Hoffmann,Consumer,United States,Houston,Texas,77070,Central,PROD-FUR-106,Furniture,Furnishings,Furnishings Model G-106,48.86,7,0.6,-36.65
+7,CA-2022-100259,2022-02-08,2022-02-12,Standard Class,CUST-1007,Ruben Ausman,Corporate,United States,Dallas,Texas,75217,Central,PROD-OFF-107,Office Supplies,Art,Art Model H-107,7.28,4,0.2,1.97
+8,CA-2022-100296,2022-02-15,2022-02-17,First Class,CUST-1008,Kunst Miller,Home Office,United States,Philadelphia,Pennsylvania,19140,East,PROD-TEC-108,Technology,Phones,Phones Model I-108,907.15,6,0.2,90.72
+9,CA-2022-100333,2022-02-23,2022-02-27,Standard Class,CUST-1009,Erin Smith,Corporate,United States,Atlanta,Georgia,30318,South,PROD-OFF-109,Office Supplies,Binders,Binders Model J-109,18.50,3,0.2,5.55
+10,CA-2022-100370,2022-03-01,2022-03-04,Second Class,CUST-1010,Harold Pawlan,Home Office,United States,Miami,Florida,33133,South,PROD-TEC-110,Technology,Accessories,Accessories Model K-110,114.90,5,0.0,34.47
+11,CA-2023-100407,2023-03-10,2023-03-14,Standard Class,CUST-1011,Pete Kriz,Consumer,United States,Charlotte,North Carolina,28205,South,PROD-OFF-111,Office Supplies,Paper,Paper Model L-111,15.55,2,0.0,7.31
+12,CA-2023-100444,2023-03-18,2023-03-21,First Class,CUST-1012,Shivani Patel,Corporate,United States,Columbus,Ohio,43229,East,PROD-FUR-112,Furniture,Chairs,Chairs Model M-112,532.40,3,0.1,106.48
+13,CA-2023-100481,2023-04-05,2023-04-09,Standard Class,CUST-1013,Mahesh Verma,Home Office,United States,Detroit,Michigan,48205,Central,PROD-TEC-113,Technology,Copiers,Copiers Model N-113,899.98,2,0.2,269.99
+14,CA-2023-100518,2023-04-12,2023-04-16,Standard Class,CUST-1014,Rajesh Sharma,Consumer,United States,Boston,Massachusetts,02116,East,PROD-OFF-114,Office Supplies,Fasteners,Fasteners Model O-114,12.35,3,0.0,5.80
+15,CA-2023-100555,2023-05-02,2023-05-06,Standard Class,CUST-1015,Pooja Mehta,Corporate,United States,Denver,Colorado,80219,West,PROD-OFF-115,Office Supplies,Appliances,Appliances Model P-115,465.12,3,0.1,93.02
+16,CA-2023-100592,2023-05-20,2023-05-24,Standard Class,CUST-1001,Claire Gute,Consumer,United States,New York City,New York,10024,East,PROD-TEC-116,Technology,Machines,Machines Model Q-116,1439.98,2,0.3,-215.99
+17,CA-2023-100629,2023-06-11,2023-06-14,Second Class,CUST-1002,Brosina Hoffman,Consumer,United States,Los Angeles,California,90036,West,PROD-OFF-117,Office Supplies,Envelopes,Envelopes Model R-117,32.70,2,0.0,15.37
+18,CA-2023-100666,2023-07-04,2023-07-08,Standard Class,CUST-1003,Darrin Van Huff,Corporate,United States,San Francisco,California,94109,West,PROD-OFF-118,Office Supplies,Supplies,Supplies Model S-118,8.26,2,0.2,0.83
+19,CA-2024-100703,2024-01-15,2024-01-19,Standard Class,CUST-1004,Sean O'Donnell,Consumer,United States,Seattle,Washington,98103,West,PROD-FUR-119,Furniture,Bookcases,Bookcases Model T-119,319.40,2,0.1,63.88
+20,CA-2024-100740,2024-02-12,2024-02-15,Second Class,CUST-1005,Zuschuss Donatelli,Consumer,United States,Chicago,Illinois,60653,Central,PROD-TEC-120,Technology,Phones,Phones Model U-120,629.93,3,0.2,62.99
+21,CA-2024-100777,2024-03-05,2024-03-09,Standard Class,CUST-1006,Eric Hoffmann,Consumer,United States,Houston,Texas,77070,Central,PROD-OFF-121,Office Supplies,Binders,Binders Model V-121,45.80,4,0.3,-9.16
+22,CA-2024-100814,2024-03-25,2024-03-29,Standard Class,CUST-1007,Ruben Ausman,Corporate,United States,Dallas,Texas,75217,Central,PROD-FUR-122,Furniture,Furnishings,Furnishings Model W-122,98.00,5,0.2,19.60
+23,CA-2024-100851,2024-04-18,2024-04-20,Same Day,CUST-1008,Kunst Miller,Home Office,United States,Philadelphia,Pennsylvania,19140,East,PROD-OFF-123,Office Supplies,Paper,Paper Model X-123,28.40,2,0.0,13.63
+24,CA-2024-100888,2024-05-02,2024-05-06,Standard Class,CUST-1009,Erin Smith,Corporate,United States,Atlanta,Georgia,30318,South,PROD-TEC-124,Technology,Accessories,Accessories Model Y-124,199.90,2,0.1,49.98
+25,CA-2024-100925,2024-05-22,2024-05-26,Standard Class,CUST-1010,Harold Pawlan,Home Office,United States,Miami,Florida,33133,South,PROD-FUR-125,Furniture,Chairs,Chairs Model Z-125,441.98,2,0.1,88.40

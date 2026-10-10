@@ -1,0 +1,31 @@
+MatchID,MatchDate,Season,Team1_ID,Team2_ID,Winner_TeamID,Venue,City,TossWinner_TeamID,TossDecision,TotalRuns,PlayerOfTheMatch_ID
+M001,2023-03-31,2023,T05,T01,T05,Narendra Modi Stadium,Ahmedabad,T05,Field,182,P017
+M002,2023-04-01,2023,T10,T04,T10,IS Bindra Stadium,Mohali,T04,Field,191,P038
+M003,2023-04-02,2023,T03,T02,T03,M. Chinnaswamy Stadium,Bengaluru,T03,Field,172,P009
+M004,2023-04-03,2023,T01,T09,T01,M. A. Chidambaram Stadium,Chennai,T09,Field,217,P002
+M005,2023-04-08,2023,T02,T01,T01,Wankhede Stadium,Mumbai,T01,Field,159,P003
+M006,2023-04-09,2023,T05,T04,T04,Narendra Modi Stadium,Ahmedabad,T05,Bat,207,P016
+M007,2023-04-10,2023,T03,T09,T09,M. Chinnaswamy Stadium,Bengaluru,T09,Field,213,P034
+M008,2023-04-14,2023,T04,T08,T08,Eden Gardens,Kolkata,T04,Field,228,P031
+M009,2023-04-16,2023,T02,T04,T02,Wankhede Stadium,Mumbai,T02,Field,186,P007
+M010,2023-04-23,2023,T04,T01,T01,Eden Gardens,Kolkata,T04,Field,235,P004
+M011,2023-04-30,2023,T02,T06,T02,Wankhede Stadium,Mumbai,T06,Bat,214,P007
+M012,2023-05-06,2023,T01,T02,T01,M. A. Chidambaram Stadium,Chennai,T01,Field,140,P002
+M013,2023-05-14,2023,T06,T03,T03,Sawai Mansingh Stadium,Jaipur,T03,Bat,171,P010
+M014,2023-05-23,2023,T05,T01,T01,M. A. Chidambaram Stadium,Chennai,T05,Field,172,P002
+M015,2023-05-29,2023,T05,T01,T01,Narendra Modi Stadium,Ahmedabad,T01,Field,214,P003
+M016,2024-03-22,2024,T01,T03,T01,M. A. Chidambaram Stadium,Chennai,T03,Bat,176,P004
+M017,2024-03-24,2024,T05,T02,T05,Narendra Modi Stadium,Ahmedabad,T02,Field,168,P017
+M018,2024-03-27,2024,T08,T02,T08,Rajiv Gandhi Intl Stadium,Hyderabad,T02,Field,277,P031
+M019,2024-03-29,2024,T03,T04,T04,M. Chinnaswamy Stadium,Bengaluru,T04,Field,186,P015
+M020,2024-04-03,2024,T07,T04,T04,Dr. Y.S. ACA Stadium,Visakhapatnam,T04,Bat,272,P015
+M021,2024-04-07,2024,T02,T07,T02,Wankhede Stadium,Mumbai,T07,Field,234,P005
+M022,2024-04-11,2024,T03,T02,T02,Wankhede Stadium,Mumbai,T02,Field,199,P008
+M023,2024-04-15,2024,T03,T08,T08,M. Chinnaswamy Stadium,Bengaluru,T03,Field,287,P030
+M024,2024-04-16,2024,T04,T06,T06,Eden Gardens,Kolkata,T06,Field,224,P022
+M025,2024-04-20,2024,T07,T08,T08,Arun Jaitley Stadium,Delhi,T07,Field,266,P030
+M026,2024-04-26,2024,T04,T10,T10,Eden Gardens,Kolkata,T10,Field,262,P038
+M027,2024-05-01,2024,T01,T10,T01,M. A. Chidambaram Stadium,Chennai,T10,Field,164,P002
+M028,2024-05-08,2024,T08,T09,T08,Rajiv Gandhi Intl Stadium,Hyderabad,T09,Bat,167,P030
+M029,2024-05-18,2024,T03,T01,T03,M. Chinnaswamy Stadium,Bengaluru,T01,Field,218,P009
+M030,2024-05-26,2024,T04,T08,T04,M. A. Chidambaram Stadium,Chennai,T08,Bat,114,P015
