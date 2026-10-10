@@ -1,0 +1,31 @@
+Transaction_ID,Date,Customer_Name,Product_Name,Category,Units_Sold,Unit_Price,Total_Amount,City,Payment_Method
+TXN1001,2023-01-15,Aarav Patel,Laptop,Electronics,620,55000,34100000,Ahmedabad,UPI
+TXN1002,2023-02-10,Diya Shah,Wireless Mouse,Accessories,450,800,360000,Surat,Card
+TXN1003,2023-03-05,Rohan Mehta,Smart Watch,Electronics,780,4500,3510000,Ahmedabad,Cash
+TXN1004,2022-11-20,Priya Sharma,Keyboard,Accessories,310,1200,372000,Mumbai,UPI
+TXN1005,2023-04-12,Ananya Joshi,Headphones,Electronics,540,2200,1188000,Ahmedabad,Card
+TXN1006,2023-05-18,Kavya Desai,Office Chair,Furniture,210,7500,1575000,Vadodara,UPI
+TXN1007,2024-01-08,Siddharth Dave,USB Cable,Accessories,850,250,212500,Ahmedabad,Cash
+TXN1008,2023-06-22,Ishita Verma,Gaming Monitor,Electronics,590,16500,9735000,Rajkot,Card
+TXN1009,2023-07-14,Manish Trivedi,Desk Lamp,Furniture,390,1100,429000,Ahmedabad,UPI
+TXN1010,2022-08-30,Sneha Kulkarni,Mechanical Keyboard,Accessories,610,3200,1952000,Pune,Cash
+TXN1011,2023-08-04,Aarav Patel,External SSD,Electronics,720,6800,4896000,Ahmedabad,Card
+TXN1012,2023-09-19,Hardik Pandya,Ergonomic Desk,Furniture,180,18000,3240000,Surat,UPI
+TXN1013,2023-10-11,Neha Solanki,Webcam HD,Electronics,530,2900,1537000,Ahmedabad,Cash
+TXN1014,2024-02-14,Diya Shah,Bluetooth Speaker,Electronics,400,3400,1360000,Vadodara,UPI
+TXN1015,2023-11-03,Rohan Mehta,Laptop Stand,Accessories,920,1500,1380000,Ahmedabad,Card
+TXN1016,2023-11-25,Pooja Bhatt,Power Bank,Electronics,680,1800,1224000,Rajkot,UPI
+TXN1017,2022-12-15,Vikas Rao,Printer,Electronics,290,12500,3625000,Mumbai,Cash
+TXN1018,2023-12-05,Ananya Joshi,Drawing Tablet,Electronics,510,9500,4845000,Ahmedabad,Card
+TXN1019,2023-12-28,Karan Rawal,Filing Cabinet,Furniture,150,8500,1275000,Surat,Cash
+TXN1020,2024-03-10,Aarav Patel,Noise Cancelling Earbuds,Electronics,640,4200,2688000,Ahmedabad,UPI
+TXN1021,2023-01-28,Bhavin Barot,LED Desk Strip,Furniture,320,700,224000,Vadodara,Card
+TXN1022,2023-02-14,Priya Sharma,Wireless Charger,Accessories,710,1400,994000,Ahmedabad,UPI
+TXN1023,2023-03-22,Ishita Verma,Wi-Fi Router,Electronics,460,3100,1426000,Pune,Cash
+TXN1024,2023-04-09,Siddharth Dave,Hard Drive 2TB,Electronics,570,5200,2964000,Ahmedabad,Card
+TXN1025,2023-05-30,Manish Trivedi,Bookshelf,Furniture,240,6500,1560000,Rajkot,UPI
+TXN1026,2023-06-18,Sneha Kulkarni,Smart Plug,Electronics,830,999,829170,Ahmedabad,Cash
+TXN1027,2022-07-07,Kavya Desai,Conference Speaker,Electronics,340,8900,3026000,Surat,Card
+TXN1028,2023-07-29,Hardik Pandya,Desk Mat,Accessories,950,450,427500,Ahmedabad,UPI
+TXN1029,2023-08-16,Neha Solanki,Monitor Arm Mount,Accessories,520,3800,1976000,Vadodara,Cash
+TXN1030,2023-09-02,Rohan Mehta,Tablet 10-inch,Electronics,610,21000,12810000,Ahmedabad,Card

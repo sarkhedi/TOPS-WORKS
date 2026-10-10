@@ -1,0 +1,26 @@
+ReviewID,RestaurantID,RestaurantName,City,Cuisine,CustomerName,Rating,ReviewDate
+R101,RES01,Barbeque Nation,Ahmedabad,North Indian/BBQ,Aarav Patel,4.5,2024-02-01
+R102,RES01,Barbeque Nation,Ahmedabad,North Indian/BBQ,Priya Shah,4.8,2024-02-03
+R103,RES01,Barbeque Nation,Ahmedabad,North Indian/BBQ,Rohan Dave,4.2,2024-02-10
+R104,RES01,Barbeque Nation,Ahmedabad,North Indian/BBQ,Sneha Joshi,4.6,2024-02-15
+R105,RES02,Mainland China,Mumbai,Chinese,Vikram Singhania,4.1,2024-02-02
+R106,RES02,Mainland China,Mumbai,Chinese,Ananya Sen,3.9,2024-02-05
+R107,RES02,Mainland China,Mumbai,Chinese,Neha Verma,4.3,2024-02-12
+R108,RES03,Sasumaa Gujarati Thali,Surat,Gujarati,Bhavik Mehta,4.7,2024-02-04
+R109,RES03,Sasumaa Gujarati Thali,Surat,Gujarati,Drashti Patel,4.9,2024-02-08
+R110,RES03,Sasumaa Gujarati Thali,Surat,Gujarati,Jignesh Shah,4.6,2024-02-14
+R111,RES04,Toscano Italian Bistro,Bengaluru,Italian,Karan Kapoor,4.4,2024-02-06
+R112,RES04,Toscano Italian Bistro,Bengaluru,Italian,Divya Nair,4.2,2024-02-11
+R113,RES04,Toscano Italian Bistro,Bengaluru,Italian,Amit Reddy,4.5,2024-02-17
+R114,RES05,Meghana Foods,Bengaluru,Biryani,Harsh Gowda,4.8,2024-02-07
+R115,RES05,Meghana Foods,Bengaluru,Biryani,Pooja Hegde,4.9,2024-02-13
+R116,RES05,Meghana Foods,Bengaluru,Biryani,Deepak Rao,4.7,2024-02-18
+R117,RES06,Gulati Restaurant,Delhi,North Indian,Simran Kaur,4.6,2024-02-08
+R118,RES06,Gulati Restaurant,Delhi,North Indian,Ritu Choudhary,4.3,2024-02-14
+R119,RES06,Gulati Restaurant,Delhi,North Indian,Manish Gupta,4.7,2024-02-19
+R120,RES07,Vaishali Cafe,Pune,South Indian,Aditya Kulkarni,4.5,2024-02-09
+R121,RES07,Vaishali Cafe,Pune,South Indian,Isha Deshmukh,4.8,2024-02-16
+R122,RES07,Vaishali Cafe,Pune,South Indian,Suresh Joshi,4.6,2024-02-20
+R123,RES08,Burger King,Delhi,Fast Food,Varun Sethi,3.5,2024-02-10
+R124,RES08,Burger King,Delhi,Fast Food,Alok Mishra,3.8,2024-02-15
+R125,RES08,Burger King,Delhi,Fast Food,Kavita Sharma,3.6,2024-02-21

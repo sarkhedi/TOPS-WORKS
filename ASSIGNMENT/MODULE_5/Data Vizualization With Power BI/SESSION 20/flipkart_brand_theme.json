@@ -1,0 +1,34 @@
+{
+  "name": "Flipkart_Style_Theme",
+  "dataColors": [
+    "#2874F0",
+    "#FFE500",
+    "#FB641B",
+    "#388E3C",
+    "#212121",
+    "#878787",
+    "#172337",
+    "#008ECC"
+  ],
+  "background": "#F1F3F6",
+  "foreground": "#212121",
+  "tableAccent": "#2874F0",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#212121"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#212121"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#212121"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#333333"
+    }
+  }
+}

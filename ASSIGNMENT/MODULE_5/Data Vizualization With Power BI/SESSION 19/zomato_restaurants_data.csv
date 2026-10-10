@@ -1,0 +1,36 @@
+Restaurant_ID,City,Restaurant_Name,Cuisine,Locality,Rating,Votes,Average_Cost_For_Two_INR,Has_Online_Delivery
+Z101,Mumbai,Bastian,Seafood,Bandra West,4.6,3420,3000,Yes
+Z102,Mumbai,The Bombay Canteen,Modern Indian,Lower Parel,4.7,4850,2500,Yes
+Z103,Mumbai,Gajalee,Maharashtrian Seafood,Vile Parle,4.4,2150,1600,Yes
+Z104,Mumbai,Pizza By The Bay,Italian,Churchgate,4.3,3100,2000,No
+Z105,Mumbai,Kyani & Co.,Parsi Cafe,Marine Lines,4.2,4600,450,No
+Z106,Delhi,Bukhara,North Indian,Chanakyapuri,4.8,6100,5000,No
+Z107,Delhi,Karim's,Mughlai,Jama Masjid,4.5,5200,800,Yes
+Z108,Delhi,Big Chill Cafe,Italian & Bakery,Khan Market,4.6,7300,1500,Yes
+Z109,Delhi,Saravana Bhavan,South Indian,Connaught Place,4.3,4900,600,Yes
+Z110,Delhi,Diggin,Continental,Chanakyapuri,4.4,3800,1400,Yes
+Z111,Bengaluru,Vidyarthi Bhavan,South Indian,Gandhi Bazaar,4.6,8900,300,No
+Z112,Bengaluru,Toit Brewpub,Finger Food & Brews,Indiranagar,4.7,9800,2000,Yes
+Z113,Bengaluru,Truffles,American & Burgers,Koramangala,4.5,10200,900,Yes
+Z114,Bengaluru,Meghana Foods,Biryani & Andhra,Koramangala,4.4,8500,750,Yes
+Z115,Bengaluru,Windmills Craftworks,Continental,Whitefield,4.6,4100,2500,No
+Z116,Ahmedabad,Agashiye,Gujarati Thali,Lal Darwaja,4.7,3900,1900,No
+Z117,Ahmedabad,Manek Chowk Night Market,Street Food,Old City,4.3,5600,350,No
+Z118,Ahmedabad,Tomato's,Mexican & North Indian,C.G. Road,4.4,2800,1200,Yes
+Z119,Ahmedabad,Gordhan Thal,Gujarati Thali,SG Highway,4.5,3400,1100,Yes
+Z120,Ahmedabad,Mocha Cafe,Desserts & Italian,Bodakdev,4.3,2100,1000,Yes
+Z121,Hyderabad,Paradise Biryani,Hyderabadi Biryani,Secunderabad,4.3,9500,850,Yes
+Z122,Hyderabad,Bawarchi,Hyderabadi Biryani,RTC X Roads,4.4,8900,700,Yes
+Z123,Hyderabad,Chutneys,South Indian,Banjara Hills,4.2,4300,650,Yes
+Z124,Hyderabad,Concu,Bakery & Desserts,Jubilee Hills,4.6,3100,1200,Yes
+Z125,Pune,Vaishali,South Indian,FC Road,4.5,7400,450,No
+Z126,Pune,German Bakery,European & Bakery,Koregaon Park,4.2,4800,1100,Yes
+Z127,Pune,Goodluck Cafe,Irani Chai & Bun Maska,Deccan Gymkhana,4.4,6200,400,No
+Z128,Pune,Malaka Spice,Southeast Asian,Koregaon Park,4.5,3900,2000,Yes
+Z129,Kolkata,Peter Cat,Continental & Chelo Kebab,Park Street,4.6,8200,1500,Yes
+Z130,Kolkata,Arsalan,Mughlai Biryani,Park Circus,4.5,7900,850,Yes
+Z131,Kolkata,Mocambo,Continental,Park Street,4.4,5400,1600,No
+Z132,Kolkata,Flurys,Bakery & Confectionery,Park Street,4.3,6100,1000,Yes
+Z133,Chennai,Murugan Idli Shop,South Indian,T. Nagar,4.5,6700,400,Yes
+Z134,Chennai,Annalakshmi Restaurant,Vegetarian Thali,Egmore,4.6,2900,1400,No
+Z135,Chennai,Dakshin,South Indian Fine Dine,Alwarpet,4.7,1900,3200,No

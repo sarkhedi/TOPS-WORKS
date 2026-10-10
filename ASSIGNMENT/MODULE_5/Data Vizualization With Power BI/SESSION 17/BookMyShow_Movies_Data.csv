@@ -1,0 +1,21 @@
+MovieID,MovieTitle,Language,Genre,BoxOfficeCollection_Cr,ReleaseYear,Rating
+M01,Dangal,Hindi,Biography/Sports,2024,2016,8.3
+M02,Baahubali 2 The Conclusion,Telugu,Action/Fantasy,1810,2017,8.2
+M03,RRR,Telugu,Action/Drama,1316,2022,7.8
+M04,KGF Chapter 2,Kannada,Action/Thriller,1250,2022,8.2
+M05,Jawan,Hindi,Action/Thriller,1148,2023,7.0
+M06,Pathaan,Hindi,Action/Thriller,1050,2023,5.9
+M07,Bajrangi Bhaijaan,Hindi,Drama/Comedy,969,2015,8.1
+M08,Animal,Hindi,Action/Crime,917,2023,6.2
+M09,Secret Superstar,Hindi,Musical/Drama,875,2017,7.8
+M10,PK,Hindi,Comedy/Drama,769,2014,8.1
+M11,Gadar 2,Hindi,Action/Drama,691,2023,5.2
+M12,Sultan,Hindi,Action/Drama,614,2016,7.0
+M13,Sanju,Hindi,Biography/Drama,586,2018,7.6
+M14,Stree 2,Hindi,Horror/Comedy,874,2024,7.2
+M15,Pushpa 2 The Rule,Telugu,Action/Thriller,1500,2024,7.5
+M16,Kalki 2898 AD,Telugu,Sci-Fi/Mythology,1041,2024,7.6
+M17,Leo,Tamil,Action/Thriller,618,2023,7.2
+M18,Jailer,Tamil,Action/Comedy,650,2023,7.1
+M19,Vikram,Tamil,Action/Crime,435,2022,8.3
+M20,Kantara,Kannada,Mythology/Thriller,450,2022,8.2

@@ -1,0 +1,36 @@
+Product_ID,Category,Sub_Category,Brand,Product_Name,Price_INR,Discount_Percent,Rating,Units_Sold,Total_Sales_INR,Customer_City
+P1001,Electronics,Mobiles,Apple,iPhone 15 (128 GB),71999,10,4.7,450,32399550,Mumbai
+P1002,Electronics,Mobiles,Samsung,Galaxy S23 5G,54999,15,4.6,380,20899620,Delhi
+P1003,Electronics,Mobiles,OnePlus,OnePlus 12R,39999,8,4.5,520,20799480,Bengaluru
+P1004,Electronics,Mobiles,Xiaomi,Redmi Note 13 Pro,21999,12,4.3,850,18699150,Ahmedabad
+P1005,Electronics,Laptops,Apple,MacBook Air M2,89900,12,4.8,210,18879000,Pune
+P1006,Electronics,Laptops,HP,HP Pavilion 15,62990,14,4.2,340,21416600,Hyderabad
+P1007,Electronics,Laptops,Dell,Dell Inspiron 14,56990,10,4.1,290,16527100,Chennai
+P1008,Electronics,Laptops,Lenovo,IdeaPad Gaming 3,51990,18,4.3,410,21315900,Kolkata
+P1009,Electronics,Audio,boAt,Airdopes 141,1299,65,4.1,2500,3247500,Jaipur
+P1010,Electronics,Audio,Sony,WH-1000XM5,26990,15,4.8,190,5128100,Mumbai
+P1011,Electronics,Audio,Noise,Buds VS102,1099,70,4.0,3200,3516800,Surat
+P1012,Fashion,Men Footwear,Nike,Nike Revolution 6,2895,30,4.3,620,1794900,Bengaluru
+P1013,Fashion,Men Footwear,Puma,Puma Smashic,2499,40,4.2,740,1849260,Delhi
+P1014,Fashion,Men Footwear,Adidas,Adidas Ultrabounce,4599,25,4.4,410,1885590,Mumbai
+P1015,Fashion,Men Clothing,Levis,Slim Fit Blue Jeans,2199,35,4.3,890,1957110,Ahmedabad
+P1016,Fashion,Men Clothing,Allen Solly,Casual Cotton Shirt,1499,45,4.1,1150,1723850,Pune
+P1017,Fashion,Women Clothing,BIBA,Printed Anarkali Kurta,1999,50,4.4,980,1959020,Jaipur
+P1018,Fashion,Women Clothing,W for Woman,Solid Straight Kurta,1499,40,4.2,850,1274150,Hyderabad
+P1019,Fashion,Women Clothing,Zara,High Rise Trousers,2990,10,4.5,390,1166100,Bengaluru
+P1020,Home & Kitchen,Kitchen Appliances,Philips,Daily Collection Airfryer,6999,25,4.4,430,3009570,Mumbai
+P1021,Home & Kitchen,Kitchen Appliances,Prestige,Iris 750W Mixer Grinder,2899,42,4.1,950,2754050,Chennai
+P1022,Home & Kitchen,Cookware,Hawkins,Futura Hard Anodised Tawa,1150,15,4.5,1200,1380000,Kolkata
+P1023,Home & Kitchen,Home Decor,Story@Home,Blackout Eyelet Curtains,899,55,4.2,1600,1438400,Surat
+P1024,Home & Kitchen,Furnishing,Sleepwell,Ortho Memory Foam Mattress,12499,20,4.6,180,2249820,Delhi
+P1025,Beauty & Grooming,Personal Care,Philips,BT3211 Trimmer,1499,25,4.3,1300,1948700,Bengaluru
+P1026,Beauty & Grooming,Skincare,Minimalist,10% Niacinamide Serum,599,5,4.6,2400,1437600,Mumbai
+P1027,Beauty & Grooming,Skincare,Mamaearth,Ubtan Face Wash 150ml,349,15,4.0,2900,1012100,Ahmedabad
+P1028,Beauty & Grooming,Fragrance,Fogg,Scent Intensio EDP 100ml,499,35,4.1,2100,1047900,Hyderabad
+P1029,Books & Stationery,Fiction,HarperCollins,The Alchemist,299,25,4.7,3500,1046500,Delhi
+P1030,Books & Stationery,Self-Help,Penguin,Atomic Habits,499,30,4.8,4200,2095800,Pune
+P1031,Books & Stationery,Academic,Arihant,General Studies 2026,380,20,4.3,1500,570000,Lucknow
+P1032,Sports & Fitness,Equipment,Kore,10-20kg Home Gym Set,1599,50,3.9,780,1247220,Jaipur
+P1033,Sports & Fitness,Badminton,Yonex,Nanoray 7000 Badminton,1999,35,4.4,1100,2198900,Bengaluru
+P1034,Sports & Fitness,Yoga & Gym,Nivia,High Grip Yoga Mat 6mm,699,40,4.2,1450,1013550,Mumbai
+P1035,Electronics,Cameras,Canon,EOS 1500D DSLR,41999,10,4.5,120,5039880,Chennai

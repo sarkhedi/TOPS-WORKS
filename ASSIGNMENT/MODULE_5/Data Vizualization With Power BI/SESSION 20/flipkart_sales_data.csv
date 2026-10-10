@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerName,City,State,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit,PaymentMode,DeliveryStatus
+OD1001,2024-01-05,Aarav Patel,Ahmedabad,Gujarat,Electronics,Mobiles,Apple iPhone 15 (128GB),72999,1,0.08,9500,UPI,Delivered
+OD1002,2024-01-07,Pooja Sharma,Mumbai,Maharashtra,Fashion,Men Clothing,Peter England Slim Fit Shirt,1499,2,0.15,350,Credit Card,Delivered
+OD1003,2024-01-08,Rohan Mehta,Ahmedabad,Gujarat,Appliances,Air Conditioners,Voltas 1.5 Ton Split AC,34990,1,0.12,4200,Net Banking,Delivered
+OD1004,2024-01-10,Ananya Iyer,Bengaluru,Karnataka,Electronics,Laptops,HP Pavilion 15 Core i5,58490,1,0.05,6200,Debit Card,Delivered
+OD1005,2024-01-12,Vikram Singh,Delhi,Delhi,Home & Kitchen,Cookware,Prestige Induction Cooktop,2899,1,0.20,510,Cash on Delivery,Delivered
+OD1006,2024-01-14,Diya Trivedi,Ahmedabad,Gujarat,Electronics,Audio,boAt Airdopes 141,1299,2,0.25,280,UPI,Delivered
+OD1007,2024-01-15,Karan Desai,Surat,Gujarat,Fashion,Women Footwear,Bata Block Heels,1899,1,0.10,320,UPI,Delivered
+OD1008,2024-01-18,Sneha Nair,Chennai,Tamil Nadu,Appliances,Refrigerators,Samsung 253L Double Door,24490,1,0.07,3100,Credit Card,Delivered
+OD1009,2024-01-19,Amit Joshi,Ahmedabad,Gujarat,Grocery,Dry Fruits,Happilo California Almonds 500g,649,3,0.15,140,UPI,Delivered
+OD1010,2024-01-21,Manish Verma,Pune,Maharashtra,Electronics,Smart Watch,Noise ColorFit Pro 4,2499,1,0.30,480,Credit Card,Delivered
+OD1011,2024-01-22,Bhavik Shah,Ahmedabad,Gujarat,Electronics,Mobiles,Samsung Galaxy S23 5G,64999,1,0.10,8100,Credit Card,Delivered
+OD1012,2024-01-24,Priya Kulkarni,Mumbai,Maharashtra,Home & Kitchen,Home Decor,Story@Home Blackout Curtains,1199,2,0.18,220,Debit Card,Delivered
+OD1013,2024-01-25,Harsh Vardhan,Delhi,Delhi,Fashion,Watches,Fastrack Casual Analog Watch,1695,1,0.05,260,Cash on Delivery,Returned
+OD1014,2024-01-27,Neha Panchal,Ahmedabad,Gujarat,Fashion,Women Clothing,Libas Floral Anarkali Kurta,2199,2,0.35,540,UPI,Delivered
+OD1015,2024-01-29,Suresh Reddy,Hyderabad,Telangana,Electronics,Laptops,Lenovo IdeaPad Slim 3,46990,1,0.09,4900,Net Banking,Delivered
+OD1016,2024-02-01,Jayesh Parmar,Ahmedabad,Gujarat,Appliances,Microwaves,LG 28L Convection Microwave,12990,1,0.14,1750,Credit Card,Delivered
+OD1017,2024-02-03,Kavita Sen,Kolkata,West Bengal,Fashion,Bags,Wildcraft 35L Backpack,1850,1,0.20,390,Debit Card,Delivered
+OD1018,2024-02-05,Mayur Vaghela,Ahmedabad,Gujarat,Electronics,Accessories,SanDisk 128GB Pendrive,899,4,0.10,210,UPI,Delivered
+OD1019,2024-02-06,Deepak Gupta,Jaipur,Rajasthan,Home & Kitchen,Kitchen Storage,Milton Thermosteel Water Bottle,849,2,0.12,160,Cash on Delivery,Delivered
+OD1020,2024-02-08,Chirag Gandhi,Ahmedabad,Gujarat,Electronics,Mobiles,Realme 12 Pro 5G,23999,1,0.06,2900,UPI,Delivered
+OD1021,2024-02-10,Swati Chatterjee,Kolkata,West Bengal,Appliances,Washing Machines,IFB 7Kg Front Load,31990,1,0.11,3800,Credit Card,Delivered
+OD1022,2024-02-12,Mitesh Solanki,Ahmedabad,Gujarat,Grocery,Snacks,Cadbury Celebrations Box,450,5,0.10,95,UPI,Delivered
+OD1023,2024-02-14,Rajesh Menon,Chennai,Tamil Nadu,Electronics,Audio,Sony WH-1000XM4 Headphones,19990,1,0.05,2700,Net Banking,Delivered
+OD1024,2024-02-16,Nidhi Barot,Ahmedabad,Gujarat,Fashion,Men Footwear,Puma Men Smash Sneakers,2799,1,0.40,620,UPI,Delivered
+OD1025,2024-02-18,Rahul Agarwal,Delhi,Delhi,Electronics,Mobiles,OnePlus 12R 5G,39999,1,0.05,4500,Credit Card,Delivered
+OD1026,2024-02-19,Tanvi Dave,Ahmedabad,Gujarat,Home & Kitchen,Furnishing,Wakefit Orthopedic Memory Mattress,9499,1,0.15,1300,Net Banking,Delivered
+OD1027,2024-02-21,Arjun Rao,Bengaluru,Karnataka,Appliances,Air Purifiers,Philips Series 1000i Air Purifier,11499,1,0.18,1650,Credit Card,Delivered
+OD1028,2024-02-23,Parth Prajapati,Ahmedabad,Gujarat,Electronics,Audio,JBL Flip 6 Bluetooth Speaker,8999,1,0.12,1200,UPI,Delivered
+OD1029,2024-02-25,Geeta Rao,Hyderabad,Telangana,Fashion,Women Clothing,Biba Solid Straight Kurta,1699,2,0.22,410,Debit Card,Delivered
+OD1030,2024-02-27,Hardik Pandya,Ahmedabad,Gujarat,Electronics,Mobiles,Google Pixel 8,62999,1,0.08,7900,Credit Card,Delivered
+OD1031,2024-03-01,Siddharth Das,Kolkata,West Bengal,Home & Kitchen,Cookware,Hawkins Contura 3L Pressure Cooker,1425,2,0.10,290,Cash on Delivery,Delivered
+OD1032,2024-03-03,Dhaval Soni,Ahmedabad,Gujarat,Fashion,Watches,Titan Neo Workwear Analog Watch,3495,1,0.15,680,UPI,Delivered
+OD1033,2024-03-05,Kajal Tiwari,Pune,Maharashtra,Grocery,Staples,Fortune Sunlite Sunflower Oil 5L,780,2,0.05,75,UPI,Delivered
+OD1034,2024-03-07,Kinjal Bhatt,Ahmedabad,Gujarat,Appliances,Geysers,AO Smith 15L Storage Water Heater,7499,1,0.12,980,Net Banking,Delivered
+OD1035,2024-03-09,Gaurav Saxena,Jaipur,Rajasthan,Fashion,Men Clothing,Levis Slim Jeans,2699,1,0.25,590,Credit Card,Delivered
+OD1036,2024-03-11,Jignesh Raval,Ahmedabad,Gujarat,Electronics,Accessories,Portronics 65W Fast Charger,1299,2,0.20,280,UPI,Delivered
+OD1037,2024-03-14,Aarti Kapoor,Delhi,Delhi,Electronics,Mobiles,Redmi Note 13 Pro 5G,21999,1,0.07,2400,Debit Card,Delivered
+OD1038,2024-03-16,Pratik Trivedi,Ahmedabad,Gujarat,Electronics,Laptops,ASUS Vivobook 16 Core i7,72990,1,0.06,7800,Credit Card,Delivered
+OD1039,2024-03-18,Manoj Pillai,Chennai,Tamil Nadu,Home & Kitchen,Kitchen Appliances,Bajaj 750W Mixer Grinder,3299,1,0.20,530,Cash on Delivery,Delivered
+OD1040,2024-03-20,Bhavna Makwana,Ahmedabad,Gujarat,Fashion,Bags,Lavie Women Satchel Handbag,2199,1,0.30,470,UPI,Delivered
+OD1041,2024-03-22,Sunil Patil,Mumbai,Maharashtra,Electronics,Smart Watch,Amazfit GTS 4 Mini,6999,1,0.14,950,Credit Card,Delivered
+OD1042,2024-03-24,Hiren Pancholi,Ahmedabad,Gujarat,Grocery,Beverages,Tata Tea Gold 1kg,520,3,0.08,80,UPI,Delivered
+OD1043,2024-03-26,Shalini Roy,Kolkata,West Bengal,Fashion,Women Footwear,Catwalk Wedge Sandals,2399,1,0.15,410,Credit Card,Delivered
+OD1044,2024-03-28,Darshan Mistri,Ahmedabad,Gujarat,Electronics,Audio,OnePlus Bullets Wireless Z2,1599,3,0.10,360,UPI,Delivered
+OD1045,2024-03-30,Vikas Chauhan,Jaipur,Rajasthan,Appliances,Fans,Crompton 1200mm Ceiling Fan,2250,2,0.12,380,Cash on Delivery,Delivered
+OD1046,2024-04-02,Meera Goswami,Ahmedabad,Gujarat,Fashion,Men Clothing,US Polo Assn Casual Polo,1799,2,0.20,490,UPI,Delivered
+OD1047,2024-04-04,Ritu Saxena,Delhi,Delhi,Electronics,Mobiles,Moto G84 5G,17999,1,0.08,2100,Debit Card,Delivered
+OD1048,2024-04-06,Viral Chokshi,Ahmedabad,Gujarat,Appliances,Refrigerators,Whirlpool 190L Single Door,13990,1,0.10,1650,Net Banking,Delivered
+OD1049,2024-04-09,Sameer Khan,Bengaluru,Karnataka,Electronics,Laptops,Apple MacBook Air M2,92990,1,0.04,11500,Credit Card,Delivered
+OD1050,2024-04-11,Rupal Modh,Ahmedabad,Gujarat,Fashion,Women Clothing,W for Woman Embroidered Kurta,2599,1,0.30,560,UPI,Delivered
+OD1051,2024-04-13,Alok Mishra,Pune,Maharashtra,Home & Kitchen,Cookware,Cello Opalware Dinner Set 18 Pcs,1899,1,0.18,340,Cash on Delivery,Delivered
+OD1052,2024-04-15,Kalpesh Barot,Ahmedabad,Gujarat,Electronics,Mobiles,Nothing Phone 2a,23999,1,0.05,2700,UPI,Delivered
+OD1053,2024-04-17,Pallavi Sen,Kolkata,West Bengal,Electronics,Audio,Boult Audio Z40,1199,2,0.22,230,Credit Card,Delivered
+OD1054,2024-04-19,Manan Shah,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Solimo Geometric Bedsheet Queen,899,3,0.15,260,UPI,Delivered
+OD1055,2024-04-22,Naveen Kumar,Hyderabad,Telangana,Appliances,Washing Machines,Bosch 8Kg Front Load,38490,1,0.08,4600,Credit Card,Delivered
+OD1056,2024-04-24,Payal Jani,Ahmedabad,Gujarat,Fashion,Watches,Fossil Chronograph Watch,7995,1,0.25,1600,Credit Card,Delivered
+OD1057,2024-04-26,Hemal Patel,Ahmedabad,Gujarat,Electronics,Laptops,Dell Inspiron 3520 Core i3,38990,1,0.07,4100,Net Banking,Delivered
+OD1058,2024-04-28,Santosh Yadav,Mumbai,Maharashtra,Fashion,Men Footwear,Red Tape Walking Shoes,1599,2,0.45,430,Debit Card,Delivered
+OD1059,2024-05-01,Dimple Dave,Ahmedabad,Gujarat,Appliances,Air Conditioners,Daikin 1.5 Ton 5 Star Inverter AC,43990,1,0.08,5500,Credit Card,Delivered
+OD1060,2024-05-03,Ankit Goel,Delhi,Delhi,Electronics,Audio,Realme Buds Air 5,2999,1,0.15,410,Cash on Delivery,Delivered
+OD1061,2024-05-05,Yashraj Jadeja,Ahmedabad,Gujarat,Fashion,Men Clothing,Allen Solly Chinos,1999,2,0.18,520,UPI,Delivered
+OD1062,2024-05-07,Archana Joshi,Bengaluru,Karnataka,Home & Kitchen,Cookware,Wonderchef Nutri-blend Mixer,2699,1,0.20,490,Debit Card,Delivered
+OD1063,2024-05-09,Tushar Vyas,Ahmedabad,Gujarat,Grocery,Dry Fruits,Nutraj Walnut Kernels 500g,799,2,0.10,150,UPI,Delivered
+OD1064,2024-05-11,Vijay Shenoy,Chennai,Tamil Nadu,Electronics,Mobiles,Vivo V30 5G,33999,1,0.06,3700,Credit Card,Delivered
+OD1065,2024-05-13,Urvi Zala,Ahmedabad,Gujarat,Fashion,Bags,Baggit Medium Shoulder Bag,1650,1,0.25,320,UPI,Delivered
+OD1066,2024-05-16,Prashant Deshmukh,Pune,Maharashtra,Appliances,Microwaves,Samsung 23L Solo Microwave,6290,1,0.10,750,Net Banking,Delivered
+OD1067,2024-05-18,Ashwin Oza,Ahmedabad,Gujarat,Electronics,Smart Watch,Fire-Boltt Phoenix Pro,1499,3,0.30,420,UPI,Delivered
+OD1068,2024-05-20,Divya Sharma,Jaipur,Rajasthan,Fashion,Women Clothing,Aurelia Embroidered Kurti,1299,2,0.20,310,Cash on Delivery,Delivered
+OD1069,2024-05-22,Biren Thakkar,Ahmedabad,Gujarat,Electronics,Mobiles,POCO X6 Pro 5G,25999,1,0.07,3100,Credit Card,Delivered
+OD1070,2024-05-24,Suman Biswas,Kolkata,West Bengal,Grocery,Beverages,Nescafe Classic Instant Coffee 200g,495,3,0.05,75,Debit Card,Delivered
+OD1071,2024-05-27,Falguni Vora,Ahmedabad,Gujarat,Appliances,Geysers,Crompton 25L Storage Geyser,6299,1,0.12,810,UPI,Delivered
+OD1072,2024-05-29,Kunal Bansal,Delhi,Delhi,Electronics,Accessories,Mi 20000mAh Power Bank,1999,2,0.10,360,Credit Card,Delivered
+OD1073,2024-05-31,Nirav Somani,Ahmedabad,Gujarat,Fashion,Men Footwear,Woodland Leather Casual Shoes,3995,1,0.20,850,UPI,Delivered
+OD1074,2024-06-02,Rohit Nair,Mumbai,Maharashtra,Electronics,Audio,Sennheiser HD 450SE,8490,1,0.15,1150,Net Banking,Delivered
+OD1075,2024-06-04,Heena Solanki,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Bombay Dyeing Double Bed King,1399,2,0.25,430,UPI,Delivered
+OD1076,2024-06-06,Akash Varma,Hyderabad,Telangana,Electronics,Laptops,Acer Nitro V Gaming Laptop,74990,1,0.05,8200,Credit Card,Delivered
+OD1077,2024-06-09,Girish Prajapati,Ahmedabad,Gujarat,Grocery,Staples,Aashirvaad Shudh Chakki Atta 10kg,460,4,0.05,90,UPI,Delivered
+OD1078,2024-06-11,Shruti Kadam,Pune,Maharashtra,Fashion,Women Footwear,Mochi Pointed Toe Pumps,2490,1,0.18,440,Debit Card,Delivered
+OD1079,2024-06-13,Jayant Pandya,Ahmedabad,Gujarat,Electronics,Mobiles,Samsung Galaxy M34 5G,16499,1,0.08,1900,Credit Card,Delivered
+OD1080,2024-06-16,Preeti Ganguly,Kolkata,West Bengal,Appliances,Fans,Havells Stealth Air Ceiling Fan,3499,2,0.15,620,Net Banking,Delivered
+OD1081,2024-06-18,Tejas Rawal,Ahmedabad,Gujarat,Fashion,Watches,Casio Vintage Digital Watch,2295,1,0.10,410,UPI,Delivered
+OD1082,2024-06-20,Vandana Gupta,Jaipur,Rajasthan,Home & Kitchen,Kitchen Appliances,Morphy Richards Oven Toaster Grill,4899,1,0.16,720,Cash on Delivery,Delivered
+OD1083,2024-06-22,Chintan Rathod,Ahmedabad,Gujarat,Electronics,Audio,Sony SRS-XB100 Bluetooth Speaker,3990,1,0.12,530,UPI,Delivered
+OD1084,2024-06-25,Anand Narayanan,Bengaluru,Karnataka,Appliances,Refrigerators,LG 322L Frost-Free Double Door,35990,1,0.08,4400,Credit Card,Delivered
+OD1085,2024-06-27,Kavita Parmar,Ahmedabad,Gujarat,Fashion,Women Clothing,Soch Floral Embroidered Saree,3299,1,0.20,680,Credit Card,Delivered
+OD1086,2024-06-29,Manas Ghosh,Kolkata,West Bengal,Electronics,Accessories,Logitech Wireless Mouse M221,799,3,0.10,180,Debit Card,Delivered
+OD1087,2024-07-02,Monil Sheth,Ahmedabad,Gujarat,Electronics,Laptops,MSI Modern 14 Core i5,49990,1,0.08,5200,Net Banking,Delivered
+OD1088,2024-07-05,Deepa Pillai,Chennai,Tamil Nadu,Fashion,Bags,Caprese Floral Tote Bag,2399,1,0.30,550,Credit Card,Delivered
+OD1089,2024-07-07,Samir Modi,Ahmedabad,Gujarat,Home & Kitchen,Cookware,Pigeon by Stovekraft 3 Burner Gas Stove,2799,1,0.22,510,UPI,Delivered
+OD1090,2024-07-10,Varun Chawla,Delhi,Delhi,Electronics,Mobiles,OnePlus Nord CE 4 5G,24999,1,0.06,2800,UPI,Delivered
+OD1091,2024-07-12,Dipti Brahmbhatt,Ahmedabad,Gujarat,Grocery,Dry Fruits,Farmley Roasted Pistachios 200g,399,3,0.10,95,Credit Card,Delivered
+OD1092,2024-07-14,Sachin Kulkarni,Mumbai,Maharashtra,Appliances,Air Conditioners,Hitachi 1.5 Ton 3 Star Inverter AC,36990,1,0.10,4300,Net Banking,Delivered
+OD1093,2024-07-17,Bhavin Joshi,Ahmedabad,Gujarat,Fashion,Men Clothing,Wrangler Regular Fit Jeans,2299,2,0.25,620,UPI,Delivered
+OD1094,2024-07-19,Tanmay Saxena,Jaipur,Rajasthan,Electronics,Smart Watch,boAt Wave Call 2,1399,2,0.35,340,Cash on Delivery,Delivered
+OD1095,2024-07-22,Nilesh Patel,Ahmedabad,Gujarat,Electronics,Audio,Noise Buds VS102,1099,3,0.20,290,UPI,Delivered
+OD1096,2024-07-24,Sangeeta Rao,Hyderabad,Telangana,Fashion,Women Footwear,Metro Metallic Party Wedges,2190,1,0.15,380,Credit Card,Delivered
+OD1097,2024-07-27,Alpesh Vaghela,Ahmedabad,Gujarat,Appliances,Washing Machines,Samsung 7Kg Eco Bubble Front Load,29990,1,0.12,3600,Credit Card,Delivered
+OD1098,2024-07-29,Pranali Jadhav,Pune,Maharashtra,Home & Kitchen,Furnishing,Spaces 100% Cotton Towel Set,1299,2,0.20,310,Debit Card,Delivered
+OD1099,2024-08-01,Mayank Shukla,Ahmedabad,Gujarat,Electronics,Mobiles,Apple iPhone 14 (128GB),59999,1,0.10,7500,Credit Card,Delivered
+OD1100,2024-08-03,Ramesh Nair,Chennai,Tamil Nadu,Grocery,Beverages,Red Label Natural Care Tea 1kg,550,2,0.06,70,Cash on Delivery,Delivered

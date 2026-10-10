@@ -1,0 +1,21 @@
+CartItemID,CustomerID,ItemName,Brand,Category,Quantity,Price,DiscountPercent
+CT001,USR101,Solid Cotton Slim Fit Casual Shirt,Roadster,Men Apparel,2,899,10
+CT002,USR101,Men Navy Blue Sneakers,Puma,Footwear,1,2499,15
+CT003,USR102,Women Printed A-Line Kurta,Anouk,Women Ethnic,3,699,20
+CT004,USR102,Silver Toned Drop Earrings,Zaveri Pearls,Jewellery,2,349,0
+CT005,USR103,Men Tapered Fit Jeans,Levis,Men Apparel,1,2199,5
+CT006,USR103,Unisex Black Backpack,Wildcraft,Bags,1,1499,10
+CT007,USR104,Women Floral Fit and Flare Dress,DressBerry,Women Western,2,1199,25
+CT008,USR104,Women Block Heels Sandal,Mast & Harbour,Footwear,1,1699,15
+CT009,USR105,Men Round Neck T-Shirt,HRX,Activewear,4,499,0
+CT010,USR105,Running Sports Trackpants,HRX,Activewear,2,899,10
+CT011,USR106,Men Chronograph Analog Watch,Fossil,Accessories,1,8495,20
+CT012,USR106,Genuine Leather Brown Belt,Tommy Hilfiger,Accessories,1,1999,10
+CT013,USR107,Embroidered Anarkali Kurta Set,Biba,Women Ethnic,1,3999,30
+CT014,USR107,Women Wedge Mules,Bata,Footwear,2,999,5
+CT015,USR108,Boy Striped Casual T-Shirt,US Polo,Kids Wear,3,599,10
+CT016,USR108,Boy Denim Shorts,Max,Kids Wear,2,699,0
+CT017,USR109,Men Pack of 3 Boxer Briefs,Jockey,Innerwear,3,749,0
+CT018,USR109,Casual Canvas Slip-on Shoes,Woodland,Footwear,1,2895,15
+CT019,USR110,Women Silk Blend Woven Saree,Mitera,Women Ethnic,1,2299,40
+CT020,USR110,Matte Liquid Lipstick 5ml,Maybelline,Beauty,2,449,10

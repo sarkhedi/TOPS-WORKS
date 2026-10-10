@@ -1,0 +1,21 @@
+OrderID,CustomerID,CustomerName,City,Cuisine,RestaurantName,OrderAmount,OrderDate
+5001,C101,Aarav Patel,Ahmedabad,North Indian,Gwalia Sweets,450,2024-01-05
+5002,C102,Priya Sharma,Mumbai,Chinese,Mainland China,850,2024-01-06
+5003,C103,Rohan Mehta,Ahmedabad,Gujarati,Sasumaa Gujarati Thali,620,2024-01-06
+5004,C104,Sneha Joshi,Pune,South Indian,Vaishali Restaurant,340,2024-01-07
+5005,C105,Ananya Sen,Bengaluru,Italian,Toscano,1250,2024-01-08
+5006,C106,Vikram Rao,Bengaluru,Biryani,Meghana Foods,580,2024-01-08
+5007,C107,Neha Verma,Delhi,North Indian,Gulati Restaurant,1100,2024-01-09
+5008,C108,Karan Kapoor,Delhi,Fast Food,Burger King,420,2024-01-10
+5009,C109,Divya Nair,Mumbai,South Indian,Dakshin,980,2024-01-10
+5010,C110,Amit Shah,Ahmedabad,Fast Food,McDonald's,390,2024-01-11
+5011,C111,Pooja Dave,Pune,Italian,Little Italy,870,2024-01-12
+5012,C112,Harsh Singhania,Mumbai,Biryani,Jaffer Bhai Delhi Darbar,750,2024-01-13
+5013,C113,Ritu Choudhary,Delhi,Chinese,Berco's,690,2024-01-13
+5014,C114,Manish Gupta,Bengaluru,North Indian,Punjab Grill,1450,2024-01-14
+5015,C115,Isha Trivedi,Ahmedabad,Punjabi,Tomato's,780,2024-01-15
+5016,C116,Aditya Kulkarni,Pune,Fast Food,Subway,320,2024-01-15
+5017,C117,Simran Kaur,Delhi,Biryani,Bikkgane Biryani,540,2024-01-16
+5018,C118,Deepak Soni,Bengaluru,South Indian,MTR 1924,410,2024-01-16
+5019,C119,Kavita Iyer,Mumbai,Italian,PizzaExpress,1150,2024-01-17
+5020,C120,Suresh Patel,Ahmedabad,Chinese,Chili's Grill & Bar,920,2024-01-18

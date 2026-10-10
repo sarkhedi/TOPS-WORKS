@@ -1,0 +1,34 @@
+{
+  "name": "CSK_IPL_Theme",
+  "dataColors": [
+    "#FDB913",
+    "#005DA0",
+    "#F37021",
+    "#113F67",
+    "#226B80",
+    "#438A5E",
+    "#F4D160",
+    "#2C3E50"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#005DA0",
+  "tableAccent": "#FDB913",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#005DA0"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#005DA0"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#005DA0"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#333333"
+    }
+  }
+}
