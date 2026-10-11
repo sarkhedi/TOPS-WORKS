@@ -1,0 +1,13 @@
+RestaurantID,RestaurantName,Cuisine,City,Rating
+R101,Spice Villa,North Indian,Mumbai,4.5
+R102,Urban Burger Co.,Fast Food,Delhi,4.2
+R103,Dragon Wok,Chinese,Bangalore,4.4
+R104,Pizza Piazza,Italian,Pune,4.6
+R105,Royal Biryani House,Mughlai,Ahmedabad,4.7
+R106,Green Bowl Salads,Healthy Food,Mumbai,4.3
+R107,Tandoor Express,North Indian,Delhi,4.1
+R108,Sushi Waves,Japanese,Bangalore,4.8
+R109,Cafe Mocha Bliss,Cafe & Desserts,Pune,4.4
+R110,Saffron Sweets & Snacks,Street Food,Ahmedabad,4.5
+R111,Pasta Bella,Italian,Mumbai,4.3
+R112,The Curry Trail,South Indian,Bangalore,4.6
